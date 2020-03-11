@@ -19,7 +19,7 @@ However, specialised tools can allow a user to set parameters and update the con
 SBOL Visual Glyphs are defined as Parametric SVG files, with some additional conventions.
 
 
-## Properties on SVG
+## Properties on SVG
 
 The SVG tag has two additional attributes:
 
@@ -27,7 +27,7 @@ The SVG tag has two additional attributes:
 * `soterms` (a comma-separated list of [Sequence Ontology](http://www.sequenceontology.org/) terms that apply to the glyph)
 
 
-## Classes
+## Classes
 
 Classes are applied to elements to indicate their role and allow their appearance to be easily controlled.
 
