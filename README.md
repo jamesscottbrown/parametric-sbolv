@@ -1,4 +1,4 @@
-# Parametric SVG Glyph Definitions for SBOL Visual
+# Parametric SVG Glyph Definitions for SBOL Visual
 
 This repo is an initial experimental attempt to create a workflow for parametric glyphs in SVG.
 
