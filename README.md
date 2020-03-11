@@ -9,7 +9,7 @@ It includes definitions of some glyphs, and several scripts that iterate over th
 * `convert.py` generated pdf/png/svg files 
 
 
-# Parametric Glyph Format
+## Parametric Glyph Format
 
 The idea of [Paramatric SVG](https://github.com/projectshaped/parametric-svg/tree/master/packages/element) is to supplement
 existing attributes of SVG elements (e.g., `x`), which have specific numerical values, with new attributes that are in a different namespace (e.g., `parametric: x`) and have values that can be arithmetic expressions including parameters.
@@ -19,7 +19,7 @@ However, specialised tools can allow a user to set parameters and update the con
 SBOL Visual Glyphs are defined as Parametric SVG files, with some additional conventions.
 
 
-## Properties on SVG
+### Properties on SVG
 
 The SVG tag has two additional attributes:
 
@@ -27,7 +27,7 @@ The SVG tag has two additional attributes:
 * `soterms` (a comma-separated list of [Sequence Ontology](http://www.sequenceontology.org/) terms that apply to the glyph)
 
 
-## Classes
+### Classes
 
 Classes are applied to elements to indicate their role and allow their appearance to be easily controlled.
 
@@ -39,7 +39,7 @@ Glyphs with simple shapes might consist of a single element, with class `filled-
 The `unfilled-path` class is used to 
 
 
-## Parameter names
+### Parameter names
 
 Parameter names are standardised, so that glyphs can be manipulated in a predictable way.
 
