@@ -37,7 +37,13 @@ jobs:
         git commit -m "Automatically re-generate glyphs"
           
     - name: Push changes
-      if: ${{ github.head_ref == 'main' }}
+      if: ${{ github.event_name == 'push' }}
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Upload artifact
+      uses: actions/upload-artifact@v1.0.0
+      with:
+        name: Converted Glyphs
+        path: output
