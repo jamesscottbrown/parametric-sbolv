@@ -3,7 +3,9 @@ name: Regenerate glyphs
 on:
   push:
     branches: [ master ]
-
+  pull_request:
+    branches: [ master ]
+    
 jobs:
   build:
 
@@ -35,6 +37,7 @@ jobs:
         git commit -m "Automatically re-generate glyphs"
           
     - name: Push changes
+      if: ${{ github.head_ref == "main" }}
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
