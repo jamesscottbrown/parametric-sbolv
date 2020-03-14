@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100" height="100" glyphtype="Promoter" soterms="SO:0000167">
+
+<rect class="bounding-box" id="bounding-box" x="0" y="3" width="19" height="25" style="opacity:0.5;fill:none;fill-opacity:1;stroke:#999999;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:1, 0.5;stroke-dashoffset:0;stroke-opacity:1" />
+
+<path class="baseline" id="baseline" d="M0,25 L19,25" style="opacity:1;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.49999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1,0.5;stroke-dashoffset:0;stroke-opacity:1" />
+
+<path class="unfilled-path" id="promoter-body" d="M2,25 L2,10 L17,10" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+
+<path class="unfilled-path" id="promoter-head" d="M13,6 L17,10 L13,14" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100" height="100" glyphtype="Terminator" soterms="SO:0000141">
+
+<rect class="bounding-box" id="bounding-box" x="0" y="12" width="12" height="16" style="opacity:0.5;fill:none;fill-opacity:1;stroke:#999999;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:1, 0.5;stroke-dashoffset:0;stroke-opacity:1" />
+
+<path class="baseline" id="baseline" d="M0,25 L12,25" style="opacity:1;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.49999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1,0.5;stroke-dashoffset:0;stroke-opacity:1" />
+
+<path class="unfilled-path" id="terminator-body" d="M6.0,25 L6.0,15" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+
+<path class="unfilled-path" id="terminator-head" d="M2,15 L10,15" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="30" height="30" glyphtype="Signature" soterms="SO:0001978">
+
+<path class="filled-path" id="signature-box-path" d="M2,15 L22,15 L22,25 2,25 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
+
+<path class="unfilled-path" id="signature-cross-path1" d="M5.0,18.0 L9.0,22.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+
+<path class="unfilled-path" id="signature-cross-path2" d="M5.0,22.0 L9.0,18.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+
+<path class="unfilled-path" id="signature-line-path" d="M12,22.0 L19.0,22.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+
+</svg>
