@@ -25,7 +25,9 @@ jobs:
         pip install -r scripts/requirements.txt
         
     - name: Regenerate glyphs
-      run: python scripts/convert.py
+      run:  |
+        cd scripts
+        python convert.py
       
     - name: Commit files
       run: |
