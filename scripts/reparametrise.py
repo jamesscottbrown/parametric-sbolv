@@ -6,14 +6,11 @@ import sympy
 
 
 def convert_attribute_value(expr_string):
-    print(expr_string)
     return re.sub(r'\{(.*?)\}', convert_expression, expr_string)
 
 def convert_expression(matchobj):
     expr_string = matchobj.group(1)
-    print("In convert_expression:", expr_string)
     expr = sympy.sympify(expr_string)
-    print(expr)
     return '{%s}' % str(expr.subs('arrowhead_width', 'total_width - arrowbody_width'))
 
 
