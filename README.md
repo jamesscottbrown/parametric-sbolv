@@ -11,7 +11,7 @@ It includes definitions of some glyphs, and several scripts that iterate over th
 
 ## Parametric Glyph Format
 
-The idea of [Paramatric SVG](https://github.com/projectshaped/parametric-svg/tree/master/packages/element) is to supplement
+The idea of [Parametric SVG](https://github.com/projectshaped/parametric-svg/tree/master/packages/element) is to supplement
 existing attributes of SVG elements (e.g., `x`), which have specific numerical values, with new attributes that are in a different namespace (e.g., `parametric: x`) and have values that can be arithmetic expressions including parameters.
 Tool that do not know about Paramateric SVG will ignore these additional attributes and render using the conventional SVG attributes.
 However, specialised tools can allow a user to set parameters and update the conventional SVG attributes by evaluating the expression in their parametric equivalent.
