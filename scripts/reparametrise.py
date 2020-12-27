@@ -39,7 +39,7 @@ for file_name in os.listdir(base_dir):
             if attrib.startswith('{https://parametric-svg.github.io/v0.2}'):
                 child.attrib[attrib] = convert_attribute_value(child.attrib[attrib])
 
-    # This ensures that we XML is serialised using the desired namespace names, rather than 'ns0' and 'ns1'
+    # This ensures that the XML is serialised using the desired namespace names, rather than 'ns0' and 'ns1'
     nsmap = {
         'http://www.w3.org/2000/svg':  '',
         'https://parametric-svg.github.io/v0.2': 'parametric'
