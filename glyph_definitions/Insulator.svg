@@ -28,7 +28,7 @@
 
 <path class="filled-background-path" 
       id="insulator-background" 
-      parametric:d="M{baseline_x+pad_before},{(baseline_y-baseline_offset)-(width*0.5)} L{baseline_x+pad_before+width},{(baseline_y-baseline_offset)-(width*0.5)} L{baseline_x+pad_before+width},{(baseline_y-baseline_offset)+(width*0.5)} L{baseline_x+pad_before},{(baseline_y-baseline_offset)+(width*0.5)} Z}" 
+      parametric:d="M{baseline_x+pad_before},{(baseline_y-baseline_offset)-(width*0.5)} L{baseline_x+pad_before+width},{(baseline_y-baseline_offset)-(width*0.5)} L{baseline_x+pad_before+width},{(baseline_y-baseline_offset)+(width*0.5)} L{baseline_x+pad_before},{(baseline_y-baseline_offset)+(width*0.5)} Z"
       d="M2,17.5 L17,17.5 L17,32.5 L2,32.5 Z"
       style="fill:rgb(255,255,255);fill-rule:nonzero;stroke:none" />
 

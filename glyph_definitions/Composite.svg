@@ -28,7 +28,7 @@
 
 <path class="filled-background-path" 
       id="poly-a-site-background" 
-      parametric:d="M{(baseline_x+pad_before)+(width*0.15)},{(baseline_y-baseline_offset)} L{(baseline_x+pad_before)+(width*0.15)},{(baseline_y-baseline_offset)-pad_top} L{(baseline_x+pad_before)+width-(width*0.15)},{(baseline_y-baseline_offset)-pad_top} L{(baseline_x+pad_before)+width-(width*0.15)},{(baseline_y-baseline_offset)} L{(baseline_x+pad_before)+width},{(baseline_y-baseline_offset)+height} L{(baseline_x+pad_before)},{(baseline_y-baseline_offset)+height} Z}" 
+      parametric:d="M{(baseline_x+pad_before)+(width*0.15)},{(baseline_y-baseline_offset)} L{(baseline_x+pad_before)+(width*0.15)},{(baseline_y-baseline_offset)-pad_top} L{(baseline_x+pad_before)+width-(width*0.15)},{(baseline_y-baseline_offset)-pad_top} L{(baseline_x+pad_before)+width-(width*0.15)},{(baseline_y-baseline_offset)} L{(baseline_x+pad_before)+width},{(baseline_y-baseline_offset)+height} L{(baseline_x+pad_before)},{(baseline_y-baseline_offset)+height} Z"
       d="M8.0,25 L8.0,22 L36.0,22 L36.0,25 L42,37 L2,37 Z"
       style="fill:rgb(255,255,255);fill-rule:nonzero;stroke:none" />
 
