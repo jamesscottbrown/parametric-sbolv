@@ -43,7 +43,7 @@ The `unfilled-path` class is used to
 
 Parameter names are standardised, so that glyphs can be manipulated in a predictable way.
 
-The initially proposed parametrisation is summarised [here](./docs/old-proposed-parametrisation.pdf).
-However, camelCase has been replaced by snake_case.
+The most important parameters are `height` and `width`, which set the *size of the bounding box* for the glyph (a few glyphs are defined to have a fixed aspect ratio, in which case the height is set based on the `width`, and the `height` is ignored).
+For some glyphs, part of the bounding box will be below the nucleic acid backbone; coordinates are used so that the backbone has a `y` coordinate of `0`.
 
-The script `tabulate_params.py` can be used to see which names are in use.
+The script `tabulate_params.py` can be used to create a [summary table](./converted/summary.csv) of parameters and their default values.
