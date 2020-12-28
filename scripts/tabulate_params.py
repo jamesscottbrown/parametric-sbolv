@@ -5,7 +5,7 @@ import csv
 base_dir = '../glyph_definitions'
 
 specification_glyphs = {}
-all_params = set()
+all_params = set(['glyphtype', 'soterms'])
 
 rows = []
 
@@ -27,6 +27,9 @@ for file_name in os.listdir(base_dir):
         (var_name, value) = assignment.split('=')
         row[var_name] = value
         all_params.add(var_name)
+
+    row['glyphtype'] = svg_tree.attrib['glyphtype']
+    row['soterms'] = svg_tree.attrib['soterms']
 
     rows.append(row)
 
