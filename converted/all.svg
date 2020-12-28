@@ -266,13 +266,13 @@
 
 <path class="unfilled-path" id="overhang_site-path1" d="M0,-2.50000000000000 L15,-2.50000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-</g></g><g transform="translate(120, 230)" id="Promoter"><text font-size="5" y="50.0">Promoter</text><g transform="translate(0,25)"><path class="unfilled-path" id="promoter-body" d="M0,0 L0,-20 L20,-20" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+</g></g><g transform="translate(120, 230)" id="Promoter"><text font-size="5" y="50.0">Promoter</text><g transform="translate(0,25)"><path class="unfilled-path" id="promoter-body" d="M0,0 L0,-20 L30,-20" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="promoter-head" d="M10,-25 L20,-20 L10,-15" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="promoter-head" d="M20,-25 L30,-20 L20,-15" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-</g></g><g transform="translate(120, 230)" id="Promoter"><text font-size="5" y="50.0">Promoter</text><g transform="translate(0,25)"><path class="unfilled-path" id="promoter-body" d="M0,0 L0,-20 L20,-20" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+</g></g><g transform="translate(120, 230)" id="Promoter"><text font-size="5" y="50.0">Promoter</text><g transform="translate(0,25)"><path class="unfilled-path" id="promoter-body" d="M0,0 L0,-20 L30,-20" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="promoter-head" d="M10,-25 L20,-20 L10,-15" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="promoter-head" d="M20,-25 L30,-20 L20,-15" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
 </g></g><g transform="translate(230, 230)" id="DNACleavageSite"><text font-size="5" y="50.0">DNACleavageSite</text><g transform="translate(0,25)"><path class="unfilled-path" id="location-top-path" d="M0,-16 L6,-10" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
@@ -382,9 +382,9 @@
 
 <path class="unfilled-path" id="assembly-scar-path1" d="M0,-2.50000000000000 L15,-2.50000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-</g></g><g transform="translate(450, 340)" id="CDS"><text font-size="5" y="50.0">CDS</text><g transform="translate(0,25)"><path class="filled-path" id="cds" d="M0,0 L0,-7.50000000000000 L20,-7.50000000000000 L20,-22.5000000000000 L25,0 L20,22.5000000000000 L20,7.50000000000000 L0,7.50000000000000 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
+</g></g><g transform="translate(450, 340)" id="CDS"><text font-size="5" y="50.0">CDS</text><g transform="translate(0,25)"><path class="filled-path" id="cds" d="M0,0  L0,-3.75000000000000  L25,-3.75000000000000  L25,-15/2  L30,0   L25,15/2    L25,3.75000000000000    L0,3.75000000000000 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
 
-</g></g><g transform="translate(450, 340)" id="CDS"><text font-size="5" y="50.0">CDS</text><g transform="translate(0,25)"><path class="filled-path" id="cds" d="M0,0 L0,-7.50000000000000 L20,-7.50000000000000 L20,-22.5000000000000 L25,0 L20,22.5000000000000 L20,7.50000000000000 L0,7.50000000000000 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
+</g></g><g transform="translate(450, 340)" id="CDS"><text font-size="5" y="50.0">CDS</text><g transform="translate(0,25)"><path class="filled-path" id="cds" d="M0,0  L0,-3.75000000000000  L25,-3.75000000000000  L25,-15/2  L30,0   L25,15/2    L25,3.75000000000000    L0,3.75000000000000 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
 
 </g></g><g transform="translate(560, 340)" id="Unspecified"><text font-size="5" y="50.0">Unspecified</text><g transform="translate(0,25)"><path class="filled-path" id="unspecified-boundry" d="M0,0 L7.50000000000000,-7.50000000000000 L15,0 L7.50000000000000,7.50000000000000 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
 
