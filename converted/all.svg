@@ -1,405 +1,405 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1110" height="340"><g transform="translate(10, 10)" id="RecombinationSite"><text font-size="5" y="50.0">RecombinationSite</text><g transform="translate(0,25)"><path class="filled-path" id="recombination-site" d="M0,-7.50000000000000 L10,0 0,7.50000000000000 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
+<svg xmlns="http://www.w3.org/2000/svg" width="1110" height="340"><g transform="translate(10, 10)" id="RecombinationSite"><text font-size="5" y="50.0">RecombinationSite</text><g transform="translate(0,25)"><path class="filled-path" id="recombination-site" d="M0.0,-7.5 L10.0,0.0 0.0,7.5 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
 
-</g></g><g transform="translate(10, 10)" id="RecombinationSite"><text font-size="5" y="50.0">RecombinationSite</text><g transform="translate(0,25)"><path class="filled-path" id="recombination-site" d="M0,-7.50000000000000 L10,0 0,7.50000000000000 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
+</g></g><g transform="translate(10, 10)" id="RecombinationSite"><text font-size="5" y="50.0">RecombinationSite</text><g transform="translate(0,25)"><path class="filled-path" id="recombination-site" d="M0.0,-7.5 L10.0,0.0 0.0,7.5 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
 
-</g></g><g transform="translate(120, 10)" id="OverhangSite3"><text font-size="5" y="50.0">OverhangSite3</text><g transform="translate(0,25)"><path class="filled-background-path" id="overhang_site-background" d="M0,-2.50000000000000 L15,-2.50000000000000 L15,2.50000000000000 L0,2.50000000000000 Z" style="fill:rgb(255,255,255);fill-rule:nonzero;stroke:none" />
+</g></g><g transform="translate(120, 10)" id="OverhangSite3"><text font-size="5" y="50.0">OverhangSite3</text><g transform="translate(0,25)"><path class="filled-background-path" id="overhang_site-background" d="M0.0,-2.5 L15.0,-2.5 L15.0,2.5 L0.0,2.5 Z" style="fill:rgb(255,255,255);fill-rule:nonzero;stroke:none" />
 
-<path class="unfilled-path" id="overhang_site-path1" d="M0,2.50000000000000 L9.00000000000000,2.50000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="overhang_site-path1" d="M0.0,2.5 L9.0,2.5" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="overhang_site-path1" d="M0,-2.50000000000000 L15,-2.50000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="overhang_site-path1" d="M0.0,-2.5 L15.0,-2.5" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-</g></g><g transform="translate(120, 10)" id="OverhangSite3"><text font-size="5" y="50.0">OverhangSite3</text><g transform="translate(0,25)"><path class="filled-background-path" id="overhang_site-background" d="M0,-2.50000000000000 L15,-2.50000000000000 L15,2.50000000000000 L0,2.50000000000000 Z" style="fill:rgb(255,255,255);fill-rule:nonzero;stroke:none" />
+</g></g><g transform="translate(120, 10)" id="OverhangSite3"><text font-size="5" y="50.0">OverhangSite3</text><g transform="translate(0,25)"><path class="filled-background-path" id="overhang_site-background" d="M0.0,-2.5 L15.0,-2.5 L15.0,2.5 L0.0,2.5 Z" style="fill:rgb(255,255,255);fill-rule:nonzero;stroke:none" />
 
-<path class="unfilled-path" id="overhang_site-path1" d="M0,2.50000000000000 L9.00000000000000,2.50000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="overhang_site-path1" d="M0.0,2.5 L9.0,2.5" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="overhang_site-path1" d="M0,-2.50000000000000 L15,-2.50000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="overhang_site-path1" d="M0.0,-2.5 L15.0,-2.5" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-</g></g><g transform="translate(230, 10)" id="DNALocation"><text font-size="5" y="50.0">DNALocation</text><g transform="translate(0,25)"><path class="filled-path" id="location-top-path" d="M0,-13.0000000000000 C0,-17.0000000000000 6,-17.0000000000000 6,-13.0000000000000 C6,-8.999999999999998 0,-8.999999999999998 0,-13.0000000000000 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
+</g></g><g transform="translate(230, 10)" id="DNALocation"><text font-size="5" y="50.0">DNALocation</text><g transform="translate(0,25)"><path class="filled-path" id="location-top-path" d="M0.0,-13.0 C0.0,-17.00000000000002 6.0,-17.00000000000002 6.0,-13.0 C6.0,-8.999999999999998 0.0,-8.999999999999998 0.0,-13.0 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
 
-<path class="unfilled-path" id="location-stem-path" d="M3.00000000000000,0 L3.00000000000000,-10" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="location-stem-path" d="M3.0,0.0 L3.0,-10.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-</g></g><g transform="translate(230, 10)" id="DNALocation"><text font-size="5" y="50.0">DNALocation</text><g transform="translate(0,25)"><path class="filled-path" id="location-top-path" d="M0,-13.0000000000000 C0,-17.0000000000000 6,-17.0000000000000 6,-13.0000000000000 C6,-8.999999999999998 0,-8.999999999999998 0,-13.0000000000000 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
+</g></g><g transform="translate(230, 10)" id="DNALocation"><text font-size="5" y="50.0">DNALocation</text><g transform="translate(0,25)"><path class="filled-path" id="location-top-path" d="M0.0,-13.0 C0.0,-17.00000000000002 6.0,-17.00000000000002 6.0,-13.0 C6.0,-8.999999999999998 0.0,-8.999999999999998 0.0,-13.0 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
 
-<path class="unfilled-path" id="location-stem-path" d="M3.00000000000000,0 L3.00000000000000,-10" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="location-stem-path" d="M3.0,0.0 L3.0,-10.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-</g></g><g transform="translate(340, 10)" id="RNACleavageSite"><text font-size="5" y="50.0">RNACleavageSite</text><g transform="translate(0,25)"><path id="location-stem-path-1" style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" class="unfilled-path" d="m 3.00000000000000, -26/3 c 13/6,-13/6 -13/6,-13/6 0,-13/3" />
+</g></g><g transform="translate(340, 10)" id="RNACleavageSite"><text font-size="5" y="50.0">RNACleavageSite</text><g transform="translate(0,25)"><path id="location-stem-path-1" style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" class="unfilled-path" d="m 3.0, -8.666666666666666 c 2.1666666666666665,-2.1666666666666665 -2.1666666666666665,-2.1666666666666665 0,-4.333333333333333" />
 
-    <path id="location-stem-path-2" class="unfilled-path" style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" d="m 3.00000000000000, 0 c 13/6,-13/6 -13/6,-13/6 0,-13/3" />
+    <path id="location-stem-path-2" class="unfilled-path" style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" d="m 3.0, 0.0 c 2.1666666666666665,-2.1666666666666665 -2.1666666666666665,-2.1666666666666665 0,-4.333333333333333" />
 
 
-    <path class="unfilled-path" id="location-top-path" d="M0,-10 L6,-16" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+    <path class="unfilled-path" id="location-top-path" d="M0.0,-10.0 L6.0,-16.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
 
-<path id="location-stem-path-2" class="unfilled-path" style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" d="m 3.00000000000000, -13/3 c 13/6,-13/6 -13/6,-13/6 0,-13/3" />
+<path id="location-stem-path-2" class="unfilled-path" style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" d="m 3.0, -4.333333333333333 c 2.1666666666666665,-2.1666666666666665 -2.1666666666666665,-2.1666666666666665 0,-4.333333333333333" />
 
-    <path class="unfilled-path" id="location-top-path" d="M0,-16 L6,-10" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+    <path class="unfilled-path" id="location-top-path" d="M0.0,-16.0 L6.0,-10.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-    </g></g><g transform="translate(340, 10)" id="RNACleavageSite"><text font-size="5" y="50.0">RNACleavageSite</text><g transform="translate(0,25)"><path id="location-stem-path-1" style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" class="unfilled-path" d="m 3.00000000000000, -26/3 c 13/6,-13/6 -13/6,-13/6 0,-13/3" />
+    </g></g><g transform="translate(340, 10)" id="RNACleavageSite"><text font-size="5" y="50.0">RNACleavageSite</text><g transform="translate(0,25)"><path id="location-stem-path-1" style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" class="unfilled-path" d="m 3.0, -8.666666666666666 c 2.1666666666666665,-2.1666666666666665 -2.1666666666666665,-2.1666666666666665 0,-4.333333333333333" />
 
-    <path id="location-stem-path-2" class="unfilled-path" style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" d="m 3.00000000000000, 0 c 13/6,-13/6 -13/6,-13/6 0,-13/3" />
+    <path id="location-stem-path-2" class="unfilled-path" style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" d="m 3.0, 0.0 c 2.1666666666666665,-2.1666666666666665 -2.1666666666666665,-2.1666666666666665 0,-4.333333333333333" />
 
 
-    <path class="unfilled-path" id="location-top-path" d="M0,-10 L6,-16" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+    <path class="unfilled-path" id="location-top-path" d="M0.0,-10.0 L6.0,-16.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
 
-<path id="location-stem-path-2" class="unfilled-path" style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" d="m 3.00000000000000, -13/3 c 13/6,-13/6 -13/6,-13/6 0,-13/3" />
+<path id="location-stem-path-2" class="unfilled-path" style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" d="m 3.0, -4.333333333333333 c 2.1666666666666665,-2.1666666666666665 -2.1666666666666665,-2.1666666666666665 0,-4.333333333333333" />
 
-    <path class="unfilled-path" id="location-top-path" d="M0,-16 L6,-10" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+    <path class="unfilled-path" id="location-top-path" d="M0.0,-16.0 L6.0,-10.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-    </g></g><g transform="translate(450, 10)" id="RNAStabilityElement"><text font-size="5" y="50.0">RNAStabilityElement</text><g transform="translate(0,25)"><path style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" class="unfilled-path" d="m 3.00000000000000, -26/3 c 13/6,-13/6 -13/6,-13/6 0,-13/3" />
+    </g></g><g transform="translate(450, 10)" id="RNAStabilityElement"><text font-size="5" y="50.0">RNAStabilityElement</text><g transform="translate(0,25)"><path style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" class="unfilled-path" d="m 3.0, -8.666666666666666 c 2.1666666666666665,-2.1666666666666665 -2.1666666666666665,-2.1666666666666665 0,-4.333333333333333" />
 
-    <path class="unfilled-path" style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" d="m 3.00000000000000, 0 c 13/6,-13/6 -13/6,-13/6 0,-13/3" />
+    <path class="unfilled-path" style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" d="m 3.0, 0.0 c 2.1666666666666665,-2.1666666666666665 -2.1666666666666665,-2.1666666666666665 0,-4.333333333333333" />
 
-    <path class="unfilled-path" style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" d="m 3.00000000000000, -13/3 c 13/6,-13/6 -13/6,-13/6 0,-13/3" />
+    <path class="unfilled-path" style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" d="m 3.0, -4.333333333333333 c 2.1666666666666665,-2.1666666666666665 -2.1666666666666665,-2.1666666666666665 0,-4.333333333333333" />
 
-    <path class="filled-path" id="location-top-path" d="M0,-16 L6,-16 L6,-11.8000000000000 L3.00000000000000,-10 L0,-11.8000000000000 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
+    <path class="filled-path" id="location-top-path" d="M0.0,-16.0 L6.0,-16.0 L6.0,-11.8 L3.0,-10.0 L0.0,-11.8 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
 
-</g></g><g transform="translate(450, 10)" id="RNAStabilityElement"><text font-size="5" y="50.0">RNAStabilityElement</text><g transform="translate(0,25)"><path style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" class="unfilled-path" d="m 3.00000000000000, -26/3 c 13/6,-13/6 -13/6,-13/6 0,-13/3" />
+</g></g><g transform="translate(450, 10)" id="RNAStabilityElement"><text font-size="5" y="50.0">RNAStabilityElement</text><g transform="translate(0,25)"><path style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" class="unfilled-path" d="m 3.0, -8.666666666666666 c 2.1666666666666665,-2.1666666666666665 -2.1666666666666665,-2.1666666666666665 0,-4.333333333333333" />
 
-    <path class="unfilled-path" style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" d="m 3.00000000000000, 0 c 13/6,-13/6 -13/6,-13/6 0,-13/3" />
+    <path class="unfilled-path" style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" d="m 3.0, 0.0 c 2.1666666666666665,-2.1666666666666665 -2.1666666666666665,-2.1666666666666665 0,-4.333333333333333" />
 
-    <path class="unfilled-path" style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" d="m 3.00000000000000, -13/3 c 13/6,-13/6 -13/6,-13/6 0,-13/3" />
+    <path class="unfilled-path" style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" d="m 3.0, -4.333333333333333 c 2.1666666666666665,-2.1666666666666665 -2.1666666666666665,-2.1666666666666665 0,-4.333333333333333" />
 
-    <path class="filled-path" id="location-top-path" d="M0,-16 L6,-16 L6,-11.8000000000000 L3.00000000000000,-10 L0,-11.8000000000000 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
+    <path class="filled-path" id="location-top-path" d="M0.0,-16.0 L6.0,-16.0 L6.0,-11.8 L3.0,-10.0 L0.0,-11.8 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
 
-</g></g><g transform="translate(560, 10)" id="StickyEndRestrictionEnzymeCleavageSite3"><text font-size="5" y="50.0">StickyEndRestrictionEnzymeCleavageSite3</text><g transform="translate(0,25)"><path class="filled-background-path" id="sticky-restriction-site-background" d="M0,-4.00000000000000 L15,-4.00000000000000 L15,4.00000000000000 L0,4.00000000000000 Z" style="fill:rgb(255,255,255);fill-rule:nonzero;stroke:none" />
+</g></g><g transform="translate(560, 10)" id="StickyEndRestrictionEnzymeCleavageSite3"><text font-size="5" y="50.0">StickyEndRestrictionEnzymeCleavageSite3</text><g transform="translate(0,25)"><path class="filled-background-path" id="sticky-restriction-site-background" d="M0.0,-4.0 L15.0,-4.0 L15.0,4.0 L0.0,4.0 Z" style="fill:rgb(255,255,255);fill-rule:nonzero;stroke:none" />
 
-<path class="unfilled-path" id="sticky-restriction-site-path" d="M2.25000000000000,4.00000000000000 L2.25000000000000,0 L12.7500000000000,0 L12.7500000000000,-4.00000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="sticky-restriction-site-path" d="M2.25,4.0 L2.25,0.0 L12.75,0.0 L12.75,-4.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-</g></g><g transform="translate(560, 10)" id="StickyEndRestrictionEnzymeCleavageSite3"><text font-size="5" y="50.0">StickyEndRestrictionEnzymeCleavageSite3</text><g transform="translate(0,25)"><path class="filled-background-path" id="sticky-restriction-site-background" d="M0,-4.00000000000000 L15,-4.00000000000000 L15,4.00000000000000 L0,4.00000000000000 Z" style="fill:rgb(255,255,255);fill-rule:nonzero;stroke:none" />
+</g></g><g transform="translate(560, 10)" id="StickyEndRestrictionEnzymeCleavageSite3"><text font-size="5" y="50.0">StickyEndRestrictionEnzymeCleavageSite3</text><g transform="translate(0,25)"><path class="filled-background-path" id="sticky-restriction-site-background" d="M0.0,-4.0 L15.0,-4.0 L15.0,4.0 L0.0,4.0 Z" style="fill:rgb(255,255,255);fill-rule:nonzero;stroke:none" />
 
-<path class="unfilled-path" id="sticky-restriction-site-path" d="M2.25000000000000,4.00000000000000 L2.25000000000000,0 L12.7500000000000,0 L12.7500000000000,-4.00000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="sticky-restriction-site-path" d="M2.25,4.0 L2.25,0.0 L12.75,0.0 L12.75,-4.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-</g></g><g transform="translate(670, 10)" id="ProteinLocation"><text font-size="5" y="50.0">ProteinLocation</text><g transform="translate(0,25)"><path class="unfilled-path" id="location-stem-path" style="opacity:1;fill:none;fill-opacity:1;stroke:black;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" d="m 3,-13 c 3,-2 3,19/3 -0,13/3 3,-2 3,19/3 0,13/3 3,-2 3,19/3 -0,13/3" />
+</g></g><g transform="translate(670, 10)" id="ProteinLocation"><text font-size="5" y="50.0">ProteinLocation</text><g transform="translate(0,25)"><path class="unfilled-path" id="location-stem-path" style="opacity:1;fill:none;fill-opacity:1;stroke:black;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" d="m 3.0,-13.0 c 3.0,-2 3.0,6.333333333333333 -0,4.333333333333333 3.0,-2 3.0,6.333333333333333 0,4.333333333333333 3.0,-2 3.0,6.333333333333333 -0,4.333333333333333" />
 
-    <path class="filled-path" id="location-top-path" d="M0,-13.0000000000000 C0,-17.0000000000000 6,-17.0000000000000 6,-13.0000000000000 C6,-9.00000000000000 0,-9.00000000000000 0,-13.0000000000000 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
+    <path class="filled-path" id="location-top-path" d="M0.0,-13.0 C0.0,-17.00000000000002 6.0,-17.00000000000002 6.0,-13.0 C6.0,-8.999999999999998 0.0,-8.999999999999998 0.0,-13.0 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
 
-</g></g><g transform="translate(670, 10)" id="ProteinLocation"><text font-size="5" y="50.0">ProteinLocation</text><g transform="translate(0,25)"><path class="unfilled-path" id="location-stem-path" style="opacity:1;fill:none;fill-opacity:1;stroke:black;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" d="m 3,-13 c 3,-2 3,19/3 -0,13/3 3,-2 3,19/3 0,13/3 3,-2 3,19/3 -0,13/3" />
+</g></g><g transform="translate(670, 10)" id="ProteinLocation"><text font-size="5" y="50.0">ProteinLocation</text><g transform="translate(0,25)"><path class="unfilled-path" id="location-stem-path" style="opacity:1;fill:none;fill-opacity:1;stroke:black;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" d="m 3.0,-13.0 c 3.0,-2 3.0,6.333333333333333 -0,4.333333333333333 3.0,-2 3.0,6.333333333333333 0,4.333333333333333 3.0,-2 3.0,6.333333333333333 -0,4.333333333333333" />
 
-    <path class="filled-path" id="location-top-path" d="M0,-13.0000000000000 C0,-17.0000000000000 6,-17.0000000000000 6,-13.0000000000000 C6,-9.00000000000000 0,-9.00000000000000 0,-13.0000000000000 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
+    <path class="filled-path" id="location-top-path" d="M0.0,-13.0 C0.0,-17.00000000000002 6.0,-17.00000000000002 6.0,-13.0 C6.0,-8.999999999999998 0.0,-8.999999999999998 0.0,-13.0 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
 
-</g></g><g transform="translate(780, 10)" id="PolyASite"><text font-size="5" y="50.0">PolyASite</text><g transform="translate(0,25)"><path class="filled-background-path" id="poly-a-site-background" d="M0,-6.00000000000000 L20,-6.00000000000000 L20,6.00000000000000 L0,6.00000000000000 Z" style="fill:rgb(255,255,255);fill-rule:nonzero;stroke:none" />
+</g></g><g transform="translate(780, 10)" id="PolyASite"><text font-size="5" y="50.0">PolyASite</text><g transform="translate(0,25)"><path class="filled-background-path" id="poly-a-site-background" d="M0.0,-6.0 L20.0,-6.0 L20.0,6.0 L0.0,6.0 Z" style="fill:rgb(255,255,255);fill-rule:nonzero;stroke:none" />
 
-<path class="unfilled-path" id="poly-a-site-path2" d="M1.16666666666667,-1.80000000000000 L5.50000000000000,-1.80000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="poly-a-site-path2" d="M1.166666666666666,-1.7999999999999998 L5.5,-1.7999999999999998" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="poly-a-site-path3" d="M14.5000000000000,-1.80000000000000 L18.8333333333333,-1.80000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="poly-a-site-path3" d="M14.5,-1.7999999999999998 L18.83333333333334,-1.7999999999999998" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="poly-a-site-path1" d="M0,0 L3.33333333333334,-6.00000000000000 L6.66666000000000,0 L10.0000000000000,-6.00000000000000 L13.3332000000000,0 L16.6666666666667,-6.00000000000000 L20.0000000000000,0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="poly-a-site-path1" d="M0.0,0.0 L3.3333333333333397,-6.0 L6.66666,0.0 L10.0,-6.0 L13.333200000000001,0.0 L16.66666666666666,-6.0 L20.0,0.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="poly-a-site-path3" d="M7.83333333333334,-1.80000000000000 L12.1666666666667,-1.80000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="poly-a-site-path3" d="M7.83333333333334,-1.7999999999999998 L12.166666666666659,-1.7999999999999998" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-</g></g><g transform="translate(780, 10)" id="PolyASite"><text font-size="5" y="50.0">PolyASite</text><g transform="translate(0,25)"><path class="filled-background-path" id="poly-a-site-background" d="M0,-6.00000000000000 L20,-6.00000000000000 L20,6.00000000000000 L0,6.00000000000000 Z" style="fill:rgb(255,255,255);fill-rule:nonzero;stroke:none" />
+</g></g><g transform="translate(780, 10)" id="PolyASite"><text font-size="5" y="50.0">PolyASite</text><g transform="translate(0,25)"><path class="filled-background-path" id="poly-a-site-background" d="M0.0,-6.0 L20.0,-6.0 L20.0,6.0 L0.0,6.0 Z" style="fill:rgb(255,255,255);fill-rule:nonzero;stroke:none" />
 
-<path class="unfilled-path" id="poly-a-site-path2" d="M1.16666666666667,-1.80000000000000 L5.50000000000000,-1.80000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="poly-a-site-path2" d="M1.166666666666666,-1.7999999999999998 L5.5,-1.7999999999999998" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="poly-a-site-path3" d="M14.5000000000000,-1.80000000000000 L18.8333333333333,-1.80000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="poly-a-site-path3" d="M14.5,-1.7999999999999998 L18.83333333333334,-1.7999999999999998" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="poly-a-site-path1" d="M0,0 L3.33333333333334,-6.00000000000000 L6.66666000000000,0 L10.0000000000000,-6.00000000000000 L13.3332000000000,0 L16.6666666666667,-6.00000000000000 L20.0000000000000,0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="poly-a-site-path1" d="M0.0,0.0 L3.3333333333333397,-6.0 L6.66666,0.0 L10.0,-6.0 L13.333200000000001,0.0 L16.66666666666666,-6.0 L20.0,0.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="poly-a-site-path3" d="M7.83333333333334,-1.80000000000000 L12.1666666666667,-1.80000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="poly-a-site-path3" d="M7.83333333333334,-1.7999999999999998 L12.166666666666659,-1.7999999999999998" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-</g></g><g transform="translate(890, 10)" id="Primer"><text font-size="5" y="50.0">Primer</text><g transform="translate(0,25)"><path class="unfilled-path" id="primer-binding-site" d="M0,0 L30,0 L20,-10" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+</g></g><g transform="translate(890, 10)" id="Primer"><text font-size="5" y="50.0">Primer</text><g transform="translate(0,25)"><path class="unfilled-path" id="primer-binding-site" d="M0.0,0.0 L30.0,0.0 L20.0,-10.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-</g></g><g transform="translate(890, 10)" id="Primer"><text font-size="5" y="50.0">Primer</text><g transform="translate(0,25)"><path class="unfilled-path" id="primer-binding-site" d="M0,0 L30,0 L20,-10" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+</g></g><g transform="translate(890, 10)" id="Primer"><text font-size="5" y="50.0">Primer</text><g transform="translate(0,25)"><path class="unfilled-path" id="primer-binding-site" d="M0.0,0.0 L30.0,0.0 L20.0,-10.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-</g></g><g transform="translate(1000, 10)" id="Spacer"><text font-size="5" y="50.0">Spacer</text><g transform="translate(0,25)"><path class="filled-path" id="spacer-circle-path" d="M0,0 C0,-6.66666666666667 10,-6.66666666666667 10,0 C10,6.66666666666667 0,6.66666666666667 0,0 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
+</g></g><g transform="translate(1000, 10)" id="Spacer"><text font-size="5" y="50.0">Spacer</text><g transform="translate(0,25)"><path class="filled-path" id="spacer-circle-path" d="M0.0,0.0 C0.0,-6.66666666666667 10.0,-6.66666666666667 10.0,0.0 C10.0,6.66666666666667 0.0,6.66666666666667 0.0,0.0 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
 
-<path class="unfilled-path" id="spacer-cross2-path" d="M8.334690308261309,3.725565802396744 L1.665309691738691,-3.725565802396744" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="spacer-cross2-path" d="M8.334690308261308,3.725565802396744 L1.665309691738691,-3.725565802396744" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="spacer-cross1-path" d="M8.334690308261309,-3.725565802396744 L1.665309691738691,3.725565802396744" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="spacer-cross1-path" d="M8.334690308261308,-3.725565802396744 L1.665309691738691,3.725565802396744" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-</g></g><g transform="translate(1000, 10)" id="Spacer"><text font-size="5" y="50.0">Spacer</text><g transform="translate(0,25)"><path class="filled-path" id="spacer-circle-path" d="M0,0 C0,-6.66666666666667 10,-6.66666666666667 10,0 C10,6.66666666666667 0,6.66666666666667 0,0 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
+</g></g><g transform="translate(1000, 10)" id="Spacer"><text font-size="5" y="50.0">Spacer</text><g transform="translate(0,25)"><path class="filled-path" id="spacer-circle-path" d="M0.0,0.0 C0.0,-6.66666666666667 10.0,-6.66666666666667 10.0,0.0 C10.0,6.66666666666667 0.0,6.66666666666667 0.0,0.0 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
 
-<path class="unfilled-path" id="spacer-cross2-path" d="M8.334690308261309,3.725565802396744 L1.665309691738691,-3.725565802396744" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="spacer-cross2-path" d="M8.334690308261308,3.725565802396744 L1.665309691738691,-3.725565802396744" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="spacer-cross1-path" d="M8.334690308261309,-3.725565802396744 L1.665309691738691,3.725565802396744" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="spacer-cross1-path" d="M8.334690308261308,-3.725565802396744 L1.665309691738691,3.725565802396744" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-</g></g><g transform="translate(10, 120)" id="RNALocation"><text font-size="5" y="50.0">RNALocation</text><g transform="translate(0,25)"><path style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" class="unfilled-path" d="m 3.00000000000000, -26/3 c 13/6,-13/6 -13/6,-13/6 0,-13/3" />
+</g></g><g transform="translate(10, 120)" id="RNALocation"><text font-size="5" y="50.0">RNALocation</text><g transform="translate(0,25)"><path style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" class="unfilled-path" d="m 3.0, -8.666666666666666 c 2.1666666666666665,-2.1666666666666665 -2.1666666666666665,-2.1666666666666665 0,-4.333333333333333" />
 
-    <path class="unfilled-path" style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" d="m 3.00000000000000, 0 c 13/6,-13/6 -13/6,-13/6 0,-13/3" />
+    <path class="unfilled-path" style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" d="m 3.0, 0.0 c 2.1666666666666665,-2.1666666666666665 -2.1666666666666665,-2.1666666666666665 0,-4.333333333333333" />
 
 
-    <path class="unfilled-path" style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" d="m 3.00000000000000, -13/3 c 13/6,-13/6 -13/6,-13/6 0,-13/3" />
+    <path class="unfilled-path" style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" d="m 3.0, -4.333333333333333 c 2.1666666666666665,-2.1666666666666665 -2.1666666666666665,-2.1666666666666665 0,-4.333333333333333" />
 
-    <path class="filled-path" id="location-top-path" d="M0,-13.0000000000000 C0,-17.0000000000000 6,-17.0000000000000 6,-13.0000000000000 C6,-9.00000000000000 0,-9.00000000000000 0,-13.0000000000000 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
+    <path class="filled-path" id="location-top-path" d="M0.0,-13.0 C0.0,-17.00000000000002 6.0,-17.00000000000002 6.0,-13.0 C6.0,-8.999999999999998 0.0,-8.999999999999998 0.0,-13.0 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
 
-</g></g><g transform="translate(10, 120)" id="RNALocation"><text font-size="5" y="50.0">RNALocation</text><g transform="translate(0,25)"><path style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" class="unfilled-path" d="m 3.00000000000000, -26/3 c 13/6,-13/6 -13/6,-13/6 0,-13/3" />
+</g></g><g transform="translate(10, 120)" id="RNALocation"><text font-size="5" y="50.0">RNALocation</text><g transform="translate(0,25)"><path style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" class="unfilled-path" d="m 3.0, -8.666666666666666 c 2.1666666666666665,-2.1666666666666665 -2.1666666666666665,-2.1666666666666665 0,-4.333333333333333" />
 
-    <path class="unfilled-path" style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" d="m 3.00000000000000, 0 c 13/6,-13/6 -13/6,-13/6 0,-13/3" />
+    <path class="unfilled-path" style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" d="m 3.0, 0.0 c 2.1666666666666665,-2.1666666666666665 -2.1666666666666665,-2.1666666666666665 0,-4.333333333333333" />
 
 
-    <path class="unfilled-path" style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" d="m 3.00000000000000, -13/3 c 13/6,-13/6 -13/6,-13/6 0,-13/3" />
+    <path class="unfilled-path" style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" d="m 3.0, -4.333333333333333 c 2.1666666666666665,-2.1666666666666665 -2.1666666666666665,-2.1666666666666665 0,-4.333333333333333" />
 
-    <path class="filled-path" id="location-top-path" d="M0,-13.0000000000000 C0,-17.0000000000000 6,-17.0000000000000 6,-13.0000000000000 C6,-9.00000000000000 0,-9.00000000000000 0,-13.0000000000000 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
+    <path class="filled-path" id="location-top-path" d="M0.0,-13.0 C0.0,-17.00000000000002 6.0,-17.00000000000002 6.0,-13.0 C6.0,-8.999999999999998 0.0,-8.999999999999998 0.0,-13.0 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
 
-</g></g><g transform="translate(120, 120)" id="ProteinStabilityElement"><text font-size="5" y="50.0">ProteinStabilityElement</text><g transform="translate(0,25)"><path class="unfilled-path" id="location-stem-path" style="opacity:1;fill:none;fill-opacity:1;stroke:black;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" d="m 3,-13 c 3,-2 3,19/3 -0,13/3 3,-2 3,19/3 0,13/3 3,-2 3,19/3 -0,13/3" />
+</g></g><g transform="translate(120, 120)" id="ProteinStabilityElement"><text font-size="5" y="50.0">ProteinStabilityElement</text><g transform="translate(0,25)"><path class="unfilled-path" id="location-stem-path" style="opacity:1;fill:none;fill-opacity:1;stroke:black;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" d="m 3.0,-13.0 c 3.0,-2 3.0,6.333333333333333 -0,4.333333333333333 3.0,-2 3.0,6.333333333333333 0,4.333333333333333 3.0,-2 3.0,6.333333333333333 -0,4.333333333333333" />
 
 
-    <path class="filled-path" id="location-top-path" d="M0,-16 L6,-16 L6,-11.8000000000000 L3.00000000000000,-10 L0,-11.8000000000000 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
+    <path class="filled-path" id="location-top-path" d="M0.0,-16.0 L6.0,-16.0 L6.0,-11.8 L3.0,-10.0 L0.0,-11.8 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
 
-</g></g><g transform="translate(120, 120)" id="ProteinStabilityElement"><text font-size="5" y="50.0">ProteinStabilityElement</text><g transform="translate(0,25)"><path class="unfilled-path" id="location-stem-path" style="opacity:1;fill:none;fill-opacity:1;stroke:black;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" d="m 3,-13 c 3,-2 3,19/3 -0,13/3 3,-2 3,19/3 0,13/3 3,-2 3,19/3 -0,13/3" />
+</g></g><g transform="translate(120, 120)" id="ProteinStabilityElement"><text font-size="5" y="50.0">ProteinStabilityElement</text><g transform="translate(0,25)"><path class="unfilled-path" id="location-stem-path" style="opacity:1;fill:none;fill-opacity:1;stroke:black;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" d="m 3.0,-13.0 c 3.0,-2 3.0,6.333333333333333 -0,4.333333333333333 3.0,-2 3.0,6.333333333333333 0,4.333333333333333 3.0,-2 3.0,6.333333333333333 -0,4.333333333333333" />
 
 
-    <path class="filled-path" id="location-top-path" d="M0,-16 L6,-16 L6,-11.8000000000000 L3.00000000000000,-10 L0,-11.8000000000000 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
+    <path class="filled-path" id="location-top-path" d="M0.0,-16.0 L6.0,-16.0 L6.0,-11.8 L3.0,-10.0 L0.0,-11.8 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
 
-</g></g><g transform="translate(230, 120)" id="SpecificRecombinationSite"><text font-size="5" y="50.0">SpecificRecombinationSite</text><g transform="translate(0,25)"><path class="filled-path" id="cds" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" d="M0,0  L0,13  L26,0  L0,-13  Z" />
+</g></g><g transform="translate(230, 120)" id="SpecificRecombinationSite"><text font-size="5" y="50.0">SpecificRecombinationSite</text><g transform="translate(0,25)"><path class="filled-path" id="cds" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" d="M0.0,0.0  L0.0,13.0  L26.0,0.0  L0.0,-13.0  Z" />
 
-</g></g><g transform="translate(230, 120)" id="SpecificRecombinationSite"><text font-size="5" y="50.0">SpecificRecombinationSite</text><g transform="translate(0,25)"><path class="filled-path" id="cds" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" d="M0,0  L0,13  L26,0  L0,-13  Z" />
+</g></g><g transform="translate(230, 120)" id="SpecificRecombinationSite"><text font-size="5" y="50.0">SpecificRecombinationSite</text><g transform="translate(0,25)"><path class="filled-path" id="cds" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" d="M0.0,0.0  L0.0,13.0  L26.0,0.0  L0.0,-13.0  Z" />
 
-</g></g><g transform="translate(340, 120)" id="EngineeredRegion"><text font-size="5" y="50.0">EngineeredRegion</text><g transform="translate(0,25)"><path class="filled-path" id="engineered-region-path" d="M0,-7.50000000000000 L30,-7.50000000000000 L30,7.50000000000000 0,7.50000000000000 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
+</g></g><g transform="translate(340, 120)" id="EngineeredRegion"><text font-size="5" y="50.0">EngineeredRegion</text><g transform="translate(0,25)"><path class="filled-path" id="engineered-region-path" d="M0.0,-7.5 L30.0,-7.5 L30.0,7.5 0.0,7.5 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
 
-</g></g><g transform="translate(340, 120)" id="EngineeredRegion"><text font-size="5" y="50.0">EngineeredRegion</text><g transform="translate(0,25)"><path class="filled-path" id="engineered-region-path" d="M0,-7.50000000000000 L30,-7.50000000000000 L30,7.50000000000000 0,7.50000000000000 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
+</g></g><g transform="translate(340, 120)" id="EngineeredRegion"><text font-size="5" y="50.0">EngineeredRegion</text><g transform="translate(0,25)"><path class="filled-path" id="engineered-region-path" d="M0.0,-7.5 L30.0,-7.5 L30.0,7.5 0.0,7.5 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
 
-</g></g><g transform="translate(450, 120)" id="NoGlyph"><text font-size="5" y="50.0">NoGlyph</text><g transform="translate(0,25)"><path class="filled-background-path" id="operator-background" d="M0,-7.50000000000000 L8,-7.50000000000000 L8,7.50000000000000 L0,7.50000000000000 Z" style="fill:rgb(255,255,255);fill-rule:nonzero;stroke:none" />
+</g></g><g transform="translate(450, 120)" id="NoGlyph"><text font-size="5" y="50.0">NoGlyph</text><g transform="translate(0,25)"><path class="filled-background-path" id="operator-background" d="M0.0,-7.5 L8.0,-7.5 L8.0,7.5 L0.0,7.5 Z" style="fill:rgb(255,255,255);fill-rule:nonzero;stroke:none" />
 
-<path class="unfilled-path" id="no-glyph-path1" d="M5.60000000000000,-7.50000000000000 L8,-7.50000000000000 L8,7.50000000000000 L5.60000000000000,7.50000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="no-glyph-path1" d="M5.6,-7.5 L8.0,-7.5 L8.0,7.5 L5.6,7.5" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="no-glyph-path1" d="M2.40000000000000,-7.50000000000000 L0,-7.50000000000000 L0,7.50000000000000 L2.40000000000000,7.50000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="no-glyph-path1" d="M2.4,-7.5 L0.0,-7.5 L0.0,7.5 L2.4,7.5" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-</g></g><g transform="translate(450, 120)" id="NoGlyph"><text font-size="5" y="50.0">NoGlyph</text><g transform="translate(0,25)"><path class="filled-background-path" id="operator-background" d="M0,-7.50000000000000 L8,-7.50000000000000 L8,7.50000000000000 L0,7.50000000000000 Z" style="fill:rgb(255,255,255);fill-rule:nonzero;stroke:none" />
+</g></g><g transform="translate(450, 120)" id="NoGlyph"><text font-size="5" y="50.0">NoGlyph</text><g transform="translate(0,25)"><path class="filled-background-path" id="operator-background" d="M0.0,-7.5 L8.0,-7.5 L8.0,7.5 L0.0,7.5 Z" style="fill:rgb(255,255,255);fill-rule:nonzero;stroke:none" />
 
-<path class="unfilled-path" id="no-glyph-path1" d="M5.60000000000000,-7.50000000000000 L8,-7.50000000000000 L8,7.50000000000000 L5.60000000000000,7.50000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="no-glyph-path1" d="M5.6,-7.5 L8.0,-7.5 L8.0,7.5 L5.6,7.5" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="no-glyph-path1" d="M2.40000000000000,-7.50000000000000 L0,-7.50000000000000 L0,7.50000000000000 L2.40000000000000,7.50000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="no-glyph-path1" d="M2.4,-7.5 L0.0,-7.5 L0.0,7.5 L2.4,7.5" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-</g></g><g transform="translate(560, 120)" id="Terminator"><text font-size="5" y="50.0">Terminator</text><g transform="translate(0,25)"><path class="unfilled-path" id="terminator-body" d="M4.00000000000000,0 L4.00000000000000,-10" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+</g></g><g transform="translate(560, 120)" id="Terminator"><text font-size="5" y="50.0">Terminator</text><g transform="translate(0,25)"><path class="unfilled-path" id="terminator-body" d="M4.0,0.0 L4.0,-10.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="terminator-head" d="M0,-10 L8,-10" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="terminator-head" d="M0.0,-10.0 L8.0,-10.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-</g></g><g transform="translate(560, 120)" id="Terminator"><text font-size="5" y="50.0">Terminator</text><g transform="translate(0,25)"><path class="unfilled-path" id="terminator-body" d="M4.00000000000000,0 L4.00000000000000,-10" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+</g></g><g transform="translate(560, 120)" id="Terminator"><text font-size="5" y="50.0">Terminator</text><g transform="translate(0,25)"><path class="unfilled-path" id="terminator-body" d="M4.0,0.0 L4.0,-10.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="terminator-head" d="M0,-10 L8,-10" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="terminator-head" d="M0.0,-10.0 L8.0,-10.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-</g></g><g transform="translate(670, 120)" id="BluntRestrictionSite"><text font-size="5" y="50.0">BluntRestrictionSite</text><g transform="translate(0,25)"><path class="filled-background-path" id="blunt-restriction-site-background" d="M2.40000000000000,-7.50000000000000 L5.60000000000000,-7.50000000000000 L5.60000000000000,7.50000000000000 L2.40000000000000,7.50000000000000 Z" style="fill:rgb(255,255,255);fill-rule:nonzero;stroke:none" />
+</g></g><g transform="translate(670, 120)" id="BluntRestrictionSite"><text font-size="5" y="50.0">BluntRestrictionSite</text><g transform="translate(0,25)"><path class="filled-background-path" id="blunt-restriction-site-background" d="M2.4,-7.5 L5.6,-7.5 L5.6,7.5 L2.4,7.5 Z" style="fill:rgb(255,255,255);fill-rule:nonzero;stroke:none" />
 
-<path class="unfilled-path" id="blunt-restriction-site-path1" d="M8,-7.50000000000000 L5.60000000000000,-7.50000000000000 L5.60000000000000,7.50000000000000 L8,7.50000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="blunt-restriction-site-path1" d="M8.0,-7.5 L5.6,-7.5 L5.6,7.5 L8.0,7.5" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="blunt-restriction-site-path1" d="M0,-7.50000000000000 L2.40000000000000,-7.50000000000000 L2.40000000000000,7.50000000000000 L0,7.50000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="blunt-restriction-site-path1" d="M0.0,-7.5 L2.4,-7.5 L2.4,7.5 L0.0,7.5" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-</g></g><g transform="translate(670, 120)" id="BluntRestrictionSite"><text font-size="5" y="50.0">BluntRestrictionSite</text><g transform="translate(0,25)"><path class="filled-background-path" id="blunt-restriction-site-background" d="M2.40000000000000,-7.50000000000000 L5.60000000000000,-7.50000000000000 L5.60000000000000,7.50000000000000 L2.40000000000000,7.50000000000000 Z" style="fill:rgb(255,255,255);fill-rule:nonzero;stroke:none" />
+</g></g><g transform="translate(670, 120)" id="BluntRestrictionSite"><text font-size="5" y="50.0">BluntRestrictionSite</text><g transform="translate(0,25)"><path class="filled-background-path" id="blunt-restriction-site-background" d="M2.4,-7.5 L5.6,-7.5 L5.6,7.5 L2.4,7.5 Z" style="fill:rgb(255,255,255);fill-rule:nonzero;stroke:none" />
 
-<path class="unfilled-path" id="blunt-restriction-site-path1" d="M8,-7.50000000000000 L5.60000000000000,-7.50000000000000 L5.60000000000000,7.50000000000000 L8,7.50000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="blunt-restriction-site-path1" d="M8.0,-7.5 L5.6,-7.5 L5.6,7.5 L8.0,7.5" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="blunt-restriction-site-path1" d="M0,-7.50000000000000 L2.40000000000000,-7.50000000000000 L2.40000000000000,7.50000000000000 L0,7.50000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="blunt-restriction-site-path1" d="M0.0,-7.5 L2.4,-7.5 L2.4,7.5 L0.0,7.5" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-</g></g><g transform="translate(780, 120)" id="StickyEndRestrictionEnzymeCleavageSite5"><text font-size="5" y="50.0">StickyEndRestrictionEnzymeCleavageSite5</text><g transform="translate(0,25)"><path class="filled-background-path" id="sticky-restriction-site-background" d="M0,-4.00000000000000 L15,-4.00000000000000 L15,4.00000000000000 L0,4.00000000000000 Z" style="fill:rgb(255,255,255);fill-rule:nonzero;stroke:none" />
+</g></g><g transform="translate(780, 120)" id="StickyEndRestrictionEnzymeCleavageSite5"><text font-size="5" y="50.0">StickyEndRestrictionEnzymeCleavageSite5</text><g transform="translate(0,25)"><path class="filled-background-path" id="sticky-restriction-site-background" d="M0.0,-4.0 L15.0,-4.0 L15.0,4.0 L0.0,4.0 Z" style="fill:rgb(255,255,255);fill-rule:nonzero;stroke:none" />
 
-<path class="unfilled-path" id="sticky-restriction-site-path" d="M2.25000000000000,-4.00000000000000 L2.25000000000000,0 L12.7500000000000,0 L12.7500000000000,4.00000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="sticky-restriction-site-path" d="M2.25,-4.0 L2.25,0.0 L12.75,0.0 L12.75,4.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-</g></g><g transform="translate(780, 120)" id="StickyEndRestrictionEnzymeCleavageSite5"><text font-size="5" y="50.0">StickyEndRestrictionEnzymeCleavageSite5</text><g transform="translate(0,25)"><path class="filled-background-path" id="sticky-restriction-site-background" d="M0,-4.00000000000000 L15,-4.00000000000000 L15,4.00000000000000 L0,4.00000000000000 Z" style="fill:rgb(255,255,255);fill-rule:nonzero;stroke:none" />
+</g></g><g transform="translate(780, 120)" id="StickyEndRestrictionEnzymeCleavageSite5"><text font-size="5" y="50.0">StickyEndRestrictionEnzymeCleavageSite5</text><g transform="translate(0,25)"><path class="filled-background-path" id="sticky-restriction-site-background" d="M0.0,-4.0 L15.0,-4.0 L15.0,4.0 L0.0,4.0 Z" style="fill:rgb(255,255,255);fill-rule:nonzero;stroke:none" />
 
-<path class="unfilled-path" id="sticky-restriction-site-path" d="M2.25000000000000,-4.00000000000000 L2.25000000000000,0 L12.7500000000000,0 L12.7500000000000,4.00000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="sticky-restriction-site-path" d="M2.25,-4.0 L2.25,0.0 L12.75,0.0 L12.75,4.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-</g></g><g transform="translate(890, 120)" id="Signature"><text font-size="5" y="50.0">Signature</text><g transform="translate(0,25)"><path class="filled-path" id="signature-box-path" d="M0,-10 L20,-10 L20,0 0,0 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
+</g></g><g transform="translate(890, 120)" id="Signature"><text font-size="5" y="50.0">Signature</text><g transform="translate(0,25)"><path class="filled-path" id="signature-box-path" d="M0.0,-10.0 L20.0,-10.0 L20.0,0.0 0.0,0.0 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
 
-<path class="unfilled-path" id="signature-cross-path2" d="M3.00000000000000,-3.00000000000000 L7.00000000000000,-7.00000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="signature-cross-path2" d="M3.0,-3.0 L7.0,-7.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="signature-cross-path1" d="M3.00000000000000,-7.00000000000000 L7.00000000000000,-3.00000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="signature-cross-path1" d="M3.0,-7.0 L7.0,-3.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="signature-line-path" d="M10,-3.00000000000000 L17.0000000000000,-3.00000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="signature-line-path" d="M10.0,-3.0 L17.0,-3.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-</g></g><g transform="translate(890, 120)" id="Signature"><text font-size="5" y="50.0">Signature</text><g transform="translate(0,25)"><path class="filled-path" id="signature-box-path" d="M0,-10 L20,-10 L20,0 0,0 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
+</g></g><g transform="translate(890, 120)" id="Signature"><text font-size="5" y="50.0">Signature</text><g transform="translate(0,25)"><path class="filled-path" id="signature-box-path" d="M0.0,-10.0 L20.0,-10.0 L20.0,0.0 0.0,0.0 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
 
-<path class="unfilled-path" id="signature-cross-path2" d="M3.00000000000000,-3.00000000000000 L7.00000000000000,-7.00000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="signature-cross-path2" d="M3.0,-3.0 L7.0,-7.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="signature-cross-path1" d="M3.00000000000000,-7.00000000000000 L7.00000000000000,-3.00000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="signature-cross-path1" d="M3.0,-7.0 L7.0,-3.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="signature-line-path" d="M10,-3.00000000000000 L17.0000000000000,-3.00000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="signature-line-path" d="M10.0,-3.0 L17.0,-3.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-</g></g><g transform="translate(1000, 120)" id="Composite"><text font-size="5" y="50.0">Composite</text><g transform="translate(0,25)"><path class="filled-background-path" id="poly-a-site-background" d="M6.00000000000000,0 L6.00000000000000,0 L34.0000000000000,0 L34.0000000000000,0 L40,12 L0,12 Z" style="fill:rgb(255,255,255);fill-rule:nonzero;stroke:none" />
+</g></g><g transform="translate(1000, 120)" id="Composite"><text font-size="5" y="50.0">Composite</text><g transform="translate(0,25)"><path class="filled-background-path" id="poly-a-site-background" d="M6.0,0.0 L6.0,0.0 L34.0,0.0 L34.0,0.0 L40.0,12.0 L0.0,12.0 Z" style="fill:rgb(255,255,255);fill-rule:nonzero;stroke:none" />
 
-<path class="unfilled-path" id="composite-path" d="M25.2000000000000,12 L40,12" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="composite-path" d="M25.2,12.0 L40.0,12.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="composite-path" d="M3.60000000000000,4.80000000000000 L2.40000000000000,7.20000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="composite-path" d="M3.5999999999999996,4.800000000000001 L2.4,7.199999999999999" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="composite-path" d="M34.0000000000000,0 L35.2000000000000,2.40000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="composite-path" d="M34.0,0.0 L35.2,2.4000000000000004" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="composite-path" d="M38.8000000000000,9.60000000000000 L40,12" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="composite-path" d="M38.8,9.600000000000001 L40.0,12.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="composite-path" d="M21.2000000000000,12 L22.8000000000000,12" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="composite-path" d="M21.200000000000003,12.0 L22.799999999999997,12.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="composite-path" d="M0,12 L14.8000000000000,12" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="composite-path" d="M0.0,12.0 L14.8,12.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="composite-path" d="M1.20000000000000,9.60000000000000 L0,12" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="composite-path" d="M1.2,9.600000000000001 L0.0,12.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="composite-path" d="M17.2000000000000,12 L18.8000000000000,12" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="composite-path" d="M17.2,12.0 L18.799999999999997,12.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="composite-path" d="M6.00000000000000,0 L4.80000000000000,2.40000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="composite-path" d="M6.0,0.0 L4.8,2.4000000000000004" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="composite-path" d="M36.4000000000000,4.80000000000000 L37.6000000000000,7.20000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="composite-path" d="M36.4,4.800000000000001 L37.599999999999994,7.199999999999999" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-</g></g><g transform="translate(1000, 120)" id="Composite"><text font-size="5" y="50.0">Composite</text><g transform="translate(0,25)"><path class="filled-background-path" id="poly-a-site-background" d="M6.00000000000000,0 L6.00000000000000,0 L34.0000000000000,0 L34.0000000000000,0 L40,12 L0,12 Z" style="fill:rgb(255,255,255);fill-rule:nonzero;stroke:none" />
+</g></g><g transform="translate(1000, 120)" id="Composite"><text font-size="5" y="50.0">Composite</text><g transform="translate(0,25)"><path class="filled-background-path" id="poly-a-site-background" d="M6.0,0.0 L6.0,0.0 L34.0,0.0 L34.0,0.0 L40.0,12.0 L0.0,12.0 Z" style="fill:rgb(255,255,255);fill-rule:nonzero;stroke:none" />
 
-<path class="unfilled-path" id="composite-path" d="M25.2000000000000,12 L40,12" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="composite-path" d="M25.2,12.0 L40.0,12.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="composite-path" d="M3.60000000000000,4.80000000000000 L2.40000000000000,7.20000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="composite-path" d="M3.5999999999999996,4.800000000000001 L2.4,7.199999999999999" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="composite-path" d="M34.0000000000000,0 L35.2000000000000,2.40000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="composite-path" d="M34.0,0.0 L35.2,2.4000000000000004" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="composite-path" d="M38.8000000000000,9.60000000000000 L40,12" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="composite-path" d="M38.8,9.600000000000001 L40.0,12.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="composite-path" d="M21.2000000000000,12 L22.8000000000000,12" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="composite-path" d="M21.200000000000003,12.0 L22.799999999999997,12.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="composite-path" d="M0,12 L14.8000000000000,12" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="composite-path" d="M0.0,12.0 L14.8,12.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="composite-path" d="M1.20000000000000,9.60000000000000 L0,12" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="composite-path" d="M1.2,9.600000000000001 L0.0,12.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="composite-path" d="M17.2000000000000,12 L18.8000000000000,12" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="composite-path" d="M17.2,12.0 L18.799999999999997,12.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="composite-path" d="M6.00000000000000,0 L4.80000000000000,2.40000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="composite-path" d="M6.0,0.0 L4.8,2.4000000000000004" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="composite-path" d="M36.4000000000000,4.80000000000000 L37.6000000000000,7.20000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="composite-path" d="M36.4,4.800000000000001 L37.599999999999994,7.199999999999999" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-</g></g><g transform="translate(10, 230)" id="Operator"><text font-size="5" y="50.0">Operator</text><g transform="translate(0,25)"><path class="filled-background-path" id="operator-background" d="M0,-3.50000000000000 L7,-3.50000000000000 L7,3.50000000000000 L0,3.50000000000000 Z" style="fill:rgb(255,255,255);fill-rule:nonzero;stroke:none" />
+</g></g><g transform="translate(10, 230)" id="Operator"><text font-size="5" y="50.0">Operator</text><g transform="translate(0,25)"><path class="filled-background-path" id="operator-background" d="M0.0,-3.5 L7.0,-3.5 L7.0,3.5 L0.0,3.5 Z" style="fill:rgb(255,255,255);fill-rule:nonzero;stroke:none" />
 
-<path class="unfilled-path" id="operator-path" d="M0,-3.50000000000000 L0,3.50000000000000 L7,3.50000000000000 L7,-3.50000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="operator-path" d="M0.0,-3.5 L0.0,3.5 L7.0,3.5 L7.0,-3.5" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-</g></g><g transform="translate(10, 230)" id="Operator"><text font-size="5" y="50.0">Operator</text><g transform="translate(0,25)"><path class="filled-background-path" id="operator-background" d="M0,-3.50000000000000 L7,-3.50000000000000 L7,3.50000000000000 L0,3.50000000000000 Z" style="fill:rgb(255,255,255);fill-rule:nonzero;stroke:none" />
+</g></g><g transform="translate(10, 230)" id="Operator"><text font-size="5" y="50.0">Operator</text><g transform="translate(0,25)"><path class="filled-background-path" id="operator-background" d="M0.0,-3.5 L7.0,-3.5 L7.0,3.5 L0.0,3.5 Z" style="fill:rgb(255,255,255);fill-rule:nonzero;stroke:none" />
 
-<path class="unfilled-path" id="operator-path" d="M0,-3.50000000000000 L0,3.50000000000000 L7,3.50000000000000 L7,-3.50000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="operator-path" d="M0.0,-3.5 L0.0,3.5 L7.0,3.5 L7.0,-3.5" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-</g></g><g transform="translate(120, 230)" id="OverhangSite5"><text font-size="5" y="50.0">OverhangSite5</text><g transform="translate(0,25)"><path class="filled-background-path" id="overhang_site-background" d="M0,-2.50000000000000 L15,-2.50000000000000 L15,2.50000000000000 L0,2.50000000000000 Z" style="fill:rgb(255,255,255);fill-rule:nonzero;stroke:none" />
+</g></g><g transform="translate(120, 230)" id="OverhangSite5"><text font-size="5" y="50.0">OverhangSite5</text><g transform="translate(0,25)"><path class="filled-background-path" id="overhang_site-background" d="M0.0,-2.5 L15.0,-2.5 L15.0,2.5 L0.0,2.5 Z" style="fill:rgb(255,255,255);fill-rule:nonzero;stroke:none" />
 
-<path class="unfilled-path" id="overhang_site-path1" d="M6.00000000000000,2.50000000000000 L15,2.50000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="overhang_site-path1" d="M6.0,2.5 L15.0,2.5" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="overhang_site-path1" d="M0,-2.50000000000000 L15,-2.50000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="overhang_site-path1" d="M0.0,-2.5 L15.0,-2.5" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-</g></g><g transform="translate(120, 230)" id="OverhangSite5"><text font-size="5" y="50.0">OverhangSite5</text><g transform="translate(0,25)"><path class="filled-background-path" id="overhang_site-background" d="M0,-2.50000000000000 L15,-2.50000000000000 L15,2.50000000000000 L0,2.50000000000000 Z" style="fill:rgb(255,255,255);fill-rule:nonzero;stroke:none" />
+</g></g><g transform="translate(120, 230)" id="OverhangSite5"><text font-size="5" y="50.0">OverhangSite5</text><g transform="translate(0,25)"><path class="filled-background-path" id="overhang_site-background" d="M0.0,-2.5 L15.0,-2.5 L15.0,2.5 L0.0,2.5 Z" style="fill:rgb(255,255,255);fill-rule:nonzero;stroke:none" />
 
-<path class="unfilled-path" id="overhang_site-path1" d="M6.00000000000000,2.50000000000000 L15,2.50000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="overhang_site-path1" d="M6.0,2.5 L15.0,2.5" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="overhang_site-path1" d="M0,-2.50000000000000 L15,-2.50000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="overhang_site-path1" d="M0.0,-2.5 L15.0,-2.5" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-</g></g><g transform="translate(230, 230)" id="Promoter"><text font-size="5" y="50.0">Promoter</text><g transform="translate(0,25)"><path class="unfilled-path" id="promoter-body" d="M0,0 L0,-20 L30,-20" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+</g></g><g transform="translate(230, 230)" id="Promoter"><text font-size="5" y="50.0">Promoter</text><g transform="translate(0,25)"><path class="unfilled-path" id="promoter-body" d="M0.0,0.0 L0.0,-20.0 L30.0,-20.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="promoter-head" d="M20,-25 L30,-20 L20,-15" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="promoter-head" d="M20.0,-25.0 L30.0,-20.0 L20.0,-15.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-</g></g><g transform="translate(230, 230)" id="Promoter"><text font-size="5" y="50.0">Promoter</text><g transform="translate(0,25)"><path class="unfilled-path" id="promoter-body" d="M0,0 L0,-20 L30,-20" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+</g></g><g transform="translate(230, 230)" id="Promoter"><text font-size="5" y="50.0">Promoter</text><g transform="translate(0,25)"><path class="unfilled-path" id="promoter-body" d="M0.0,0.0 L0.0,-20.0 L30.0,-20.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="promoter-head" d="M20,-25 L30,-20 L20,-15" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="promoter-head" d="M20.0,-25.0 L30.0,-20.0 L20.0,-15.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-</g></g><g transform="translate(340, 230)" id="DNACleavageSite"><text font-size="5" y="50.0">DNACleavageSite</text><g transform="translate(0,25)"><path class="unfilled-path" id="location-top-path" d="M0,-16 L6,-10" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+</g></g><g transform="translate(340, 230)" id="DNACleavageSite"><text font-size="5" y="50.0">DNACleavageSite</text><g transform="translate(0,25)"><path class="unfilled-path" id="location-top-path" d="M0.0,-16.0 L6.0,-10.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="location-stem-path" d="M3.00000000000000,0 L3.00000000000000,-13.0000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="location-stem-path" d="M3.0,0.0 L3.0,-13.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="location-top-path" d="M0,-10 L6,-16" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="location-top-path" d="M0.0,-10.0 L6.0,-16.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-</g></g><g transform="translate(340, 230)" id="DNACleavageSite"><text font-size="5" y="50.0">DNACleavageSite</text><g transform="translate(0,25)"><path class="unfilled-path" id="location-top-path" d="M0,-16 L6,-10" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+</g></g><g transform="translate(340, 230)" id="DNACleavageSite"><text font-size="5" y="50.0">DNACleavageSite</text><g transform="translate(0,25)"><path class="unfilled-path" id="location-top-path" d="M0.0,-16.0 L6.0,-10.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="location-stem-path" d="M3.00000000000000,0 L3.00000000000000,-13.0000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="location-stem-path" d="M3.0,0.0 L3.0,-13.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="location-top-path" d="M0,-10 L6,-16" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="location-top-path" d="M0.0,-10.0 L6.0,-16.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-</g></g><g transform="translate(450, 230)" id="ProteinCleavageSite"><text font-size="5" y="50.0">ProteinCleavageSite</text><g transform="translate(0,25)"><path class="unfilled-path" id="location-stem-path" style="opacity:1;fill:none;fill-opacity:1;stroke:black;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" d="m 3,-13 c 3,-2 3,19/3 -0,13/3 3,-2 3,19/3 0,13/3 3,-2 3,19/3 -0,13/3" />
+</g></g><g transform="translate(450, 230)" id="ProteinCleavageSite"><text font-size="5" y="50.0">ProteinCleavageSite</text><g transform="translate(0,25)"><path class="unfilled-path" id="location-stem-path" style="opacity:1;fill:none;fill-opacity:1;stroke:black;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" d="m 3.0,-13.0 c 3.0,-2 3.0,6.333333333333333 -0,4.333333333333333 3.0,-2 3.0,6.333333333333333 0,4.333333333333333 3.0,-2 3.0,6.333333333333333 -0,4.333333333333333" />
 
 
-    <path class="unfilled-path" id="location-top-path" d="M0,-10 L6,-16" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+    <path class="unfilled-path" id="location-top-path" d="M0.0,-10.0 L6.0,-16.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
 
-<path class="unfilled-path" id="location-top-path" d="M0,-16 L6,-10" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="location-top-path" d="M0.0,-16.0 L6.0,-10.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-    </g></g><g transform="translate(450, 230)" id="ProteinCleavageSite"><text font-size="5" y="50.0">ProteinCleavageSite</text><g transform="translate(0,25)"><path class="unfilled-path" id="location-stem-path" style="opacity:1;fill:none;fill-opacity:1;stroke:black;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" d="m 3,-13 c 3,-2 3,19/3 -0,13/3 3,-2 3,19/3 0,13/3 3,-2 3,19/3 -0,13/3" />
+    </g></g><g transform="translate(450, 230)" id="ProteinCleavageSite"><text font-size="5" y="50.0">ProteinCleavageSite</text><g transform="translate(0,25)"><path class="unfilled-path" id="location-stem-path" style="opacity:1;fill:none;fill-opacity:1;stroke:black;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" d="m 3.0,-13.0 c 3.0,-2 3.0,6.333333333333333 -0,4.333333333333333 3.0,-2 3.0,6.333333333333333 0,4.333333333333333 3.0,-2 3.0,6.333333333333333 -0,4.333333333333333" />
 
 
-    <path class="unfilled-path" id="location-top-path" d="M0,-10 L6,-16" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+    <path class="unfilled-path" id="location-top-path" d="M0.0,-10.0 L6.0,-16.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
 
-<path class="unfilled-path" id="location-top-path" d="M0,-16 L6,-10" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="location-top-path" d="M0.0,-16.0 L6.0,-10.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-    </g></g><g transform="translate(560, 230)" id="DNAStabilityElement"><text font-size="5" y="50.0">DNAStabilityElement</text><g transform="translate(0,25)"><path class="filled-path" id="location-top-path" d="M0,-16 L6,-16 L6,-11.8000000000000 L3.00000000000000,-10 L0,-11.8000000000000 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
+    </g></g><g transform="translate(560, 230)" id="DNAStabilityElement"><text font-size="5" y="50.0">DNAStabilityElement</text><g transform="translate(0,25)"><path class="filled-path" id="location-top-path" d="M0.0,-16.0 L6.0,-16.0 L6.0,-11.8 L3.0,-10.0 L0.0,-11.8 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
 
-<path class="unfilled-path" id="location-stem-path" d="M3.00000000000000,0 L3.00000000000000,-10" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="location-stem-path" d="M3.0,0.0 L3.0,-10.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-</g></g><g transform="translate(560, 230)" id="DNAStabilityElement"><text font-size="5" y="50.0">DNAStabilityElement</text><g transform="translate(0,25)"><path class="filled-path" id="location-top-path" d="M0,-16 L6,-16 L6,-11.8000000000000 L3.00000000000000,-10 L0,-11.8000000000000 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
+</g></g><g transform="translate(560, 230)" id="DNAStabilityElement"><text font-size="5" y="50.0">DNAStabilityElement</text><g transform="translate(0,25)"><path class="filled-path" id="location-top-path" d="M0.0,-16.0 L6.0,-16.0 L6.0,-11.8 L3.0,-10.0 L0.0,-11.8 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
 
-<path class="unfilled-path" id="location-stem-path" d="M3.00000000000000,0 L3.00000000000000,-10" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="location-stem-path" d="M3.0,0.0 L3.0,-10.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-</g></g><g transform="translate(670, 230)" id="RibosomeEntrySite"><text font-size="5" y="50.0">RibosomeEntrySite</text><g transform="translate(0,25)"><path class="filled-path" id="rbs" d="M0,0 C0,-10.0000000000000 15,-10.0000000000000 15,0 L0,0Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
+</g></g><g transform="translate(670, 230)" id="RibosomeEntrySite"><text font-size="5" y="50.0">RibosomeEntrySite</text><g transform="translate(0,25)"><path class="filled-path" id="rbs" d="M0.0,0.0 C0.0,-10.000000000000004 15.0,-10.000000000000004 15.0,0.0 L0.0,0.0Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
 
-</g></g><g transform="translate(670, 230)" id="RibosomeEntrySite"><text font-size="5" y="50.0">RibosomeEntrySite</text><g transform="translate(0,25)"><path class="filled-path" id="rbs" d="M0,0 C0,-10.0000000000000 15,-10.0000000000000 15,0 L0,0Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
+</g></g><g transform="translate(670, 230)" id="RibosomeEntrySite"><text font-size="5" y="50.0">RibosomeEntrySite</text><g transform="translate(0,25)"><path class="filled-path" id="rbs" d="M0.0,0.0 C0.0,-10.000000000000004 15.0,-10.000000000000004 15.0,0.0 L0.0,0.0Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
 
-</g></g><g transform="translate(780, 230)" id="OriginOfTransfer"><text font-size="5" y="50.0">OriginOfTransfer</text><g transform="translate(0,25)"><path class="filled-path" id="origin-of-transfer" d="M0,0 C0,-13.3333333333333 20,-13.3333333333333 20,0 C20,13.3333333333333 0,13.3333333333333 0,0 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
+</g></g><g transform="translate(780, 230)" id="OriginOfTransfer"><text font-size="5" y="50.0">OriginOfTransfer</text><g transform="translate(0,25)"><path class="filled-path" id="origin-of-transfer" d="M0.0,0.0 C0.0,-13.33333333333334 20.0,-13.33333333333334 20.0,0.0 C20.0,13.33333333333334 0.0,13.33333333333334 0.0,0.0 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
 
-<path class="unfilled-path" id="origin-of-transfer-arrowhead" d="M17.0000000000000,-10.0000000000000 L20,-10.0000000000000 L20,-7.00000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="origin-of-transfer-arrowhead" d="M17.0,-10.0 L20.0,-10.0 L20.0,-7.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="origin-of-transfer-arrowbody" d="M10.0000000000000,0 L20,-10.0000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="origin-of-transfer-arrowbody" d="M10.0,0.0 L20.0,-10.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-</g></g><g transform="translate(780, 230)" id="OriginOfTransfer"><text font-size="5" y="50.0">OriginOfTransfer</text><g transform="translate(0,25)"><path class="filled-path" id="origin-of-transfer" d="M0,0 C0,-13.3333333333333 20,-13.3333333333333 20,0 C20,13.3333333333333 0,13.3333333333333 0,0 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
+</g></g><g transform="translate(780, 230)" id="OriginOfTransfer"><text font-size="5" y="50.0">OriginOfTransfer</text><g transform="translate(0,25)"><path class="filled-path" id="origin-of-transfer" d="M0.0,0.0 C0.0,-13.33333333333334 20.0,-13.33333333333334 20.0,0.0 C20.0,13.33333333333334 0.0,13.33333333333334 0.0,0.0 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
 
-<path class="unfilled-path" id="origin-of-transfer-arrowhead" d="M17.0000000000000,-10.0000000000000 L20,-10.0000000000000 L20,-7.00000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="origin-of-transfer-arrowhead" d="M17.0,-10.0 L20.0,-10.0 L20.0,-7.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="origin-of-transfer-arrowbody" d="M10.0000000000000,0 L20,-10.0000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="origin-of-transfer-arrowbody" d="M10.0,0.0 L20.0,-10.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-</g></g><g transform="translate(890, 230)" id="OmittedDetail"><text font-size="5" y="50.0">OmittedDetail</text><g transform="translate(0,25)"><path class="filled-background-path" id="omitted-detail-background" d="M0,0 L15,0 L15,0 L0,0 Z" style="fill:rgb(255,255,255);fill-rule:nonzero;stroke:none" />
+</g></g><g transform="translate(890, 230)" id="OmittedDetail"><text font-size="5" y="50.0">OmittedDetail</text><g transform="translate(0,25)"><path class="filled-background-path" id="omitted-detail-background" d="M0.0,0.0 L15.0,0.0 L15.0,0.0 L0.0,0.0 Z" style="fill:rgb(255,255,255);fill-rule:nonzero;stroke:none" />
 
-<path class="unfilled-path" id="omitted-detail-point1" d="M3.75000000000000,0 L3.75000000000000,0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="omitted-detail-point1" d="M3.75,0.0 L3.75,0.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="omitted-detail-point1" d="M7.50000000000000,0 L7.50000000000000,0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="omitted-detail-point1" d="M7.5,0.0 L7.5,0.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="omitted-detail-point1" d="M11.2500000000000,0 L11.2500000000000,0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="omitted-detail-point1" d="M11.25,0.0 L11.25,0.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-</g></g><g transform="translate(890, 230)" id="OmittedDetail"><text font-size="5" y="50.0">OmittedDetail</text><g transform="translate(0,25)"><path class="filled-background-path" id="omitted-detail-background" d="M0,0 L15,0 L15,0 L0,0 Z" style="fill:rgb(255,255,255);fill-rule:nonzero;stroke:none" />
+</g></g><g transform="translate(890, 230)" id="OmittedDetail"><text font-size="5" y="50.0">OmittedDetail</text><g transform="translate(0,25)"><path class="filled-background-path" id="omitted-detail-background" d="M0.0,0.0 L15.0,0.0 L15.0,0.0 L0.0,0.0 Z" style="fill:rgb(255,255,255);fill-rule:nonzero;stroke:none" />
 
-<path class="unfilled-path" id="omitted-detail-point1" d="M3.75000000000000,0 L3.75000000000000,0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="omitted-detail-point1" d="M3.75,0.0 L3.75,0.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="omitted-detail-point1" d="M7.50000000000000,0 L7.50000000000000,0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="omitted-detail-point1" d="M7.5,0.0 L7.5,0.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="omitted-detail-point1" d="M11.2500000000000,0 L11.2500000000000,0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="omitted-detail-point1" d="M11.25,0.0 L11.25,0.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-</g></g><g transform="translate(1000, 230)" id="OriginOfReplication"><text font-size="5" y="50.0">OriginOfReplication</text><g transform="translate(0,25)"><path class="filled-path" id="origin-of-replication" d="M0,0 C0,-13.3333333333333 20,-13.3333333333333 20,0 C20,13.3333333333333 0,13.3333333333333 0,0 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
+</g></g><g transform="translate(1000, 230)" id="OriginOfReplication"><text font-size="5" y="50.0">OriginOfReplication</text><g transform="translate(0,25)"><path class="filled-path" id="origin-of-replication" d="M0.0,0.0 C0.0,-13.33333333333334 20.0,-13.33333333333334 20.0,0.0 C20.0,13.33333333333334 0.0,13.33333333333334 0.0,0.0 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
 
-</g></g><g transform="translate(1000, 230)" id="OriginOfReplication"><text font-size="5" y="50.0">OriginOfReplication</text><g transform="translate(0,25)"><path class="filled-path" id="origin-of-replication" d="M0,0 C0,-13.3333333333333 20,-13.3333333333333 20,0 C20,13.3333333333333 0,13.3333333333333 0,0 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
+</g></g><g transform="translate(1000, 230)" id="OriginOfReplication"><text font-size="5" y="50.0">OriginOfReplication</text><g transform="translate(0,25)"><path class="filled-path" id="origin-of-replication" d="M0.0,0.0 C0.0,-13.33333333333334 20.0,-13.33333333333334 20.0,0.0 C20.0,13.33333333333334 0.0,13.33333333333334 0.0,0.0 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
 
-</g></g><g transform="translate(10, 340)" id="Insulator"><text font-size="5" y="50.0">Insulator</text><g transform="translate(0,25)"><path class="filled-background-path" id="insulator-background" d="M0,-7.50000000000000 L15,-7.50000000000000 L15,7.50000000000000 L0,7.50000000000000 Z" style="fill:rgb(255,255,255);fill-rule:nonzero;stroke:none" />
+</g></g><g transform="translate(10, 340)" id="Insulator"><text font-size="5" y="50.0">Insulator</text><g transform="translate(0,25)"><path class="filled-background-path" id="insulator-background" d="M0.0,-7.5 L15.0,-7.5 L15.0,7.5 L0.0,7.5 Z" style="fill:rgb(255,255,255);fill-rule:nonzero;stroke:none" />
 
-<path class="filled-path" id="insulator-inner-path" d="M3.00000000000000,-4.50000000000000 L12.0000000000000,-4.50000000000000 L12.0000000000000,4.50000000000000 L3.00000000000000,4.50000000000000 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
+<path class="filled-path" id="insulator-inner-path" d="M3.0,-4.5 L12.0,-4.5 L12.0,4.5 L3.0,4.5 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
 
-<path class="unfilled-path" id="insulator-outer-path" d="M0,-7.50000000000000 L15,-7.50000000000000 L15,7.50000000000000 L0,7.50000000000000 Z" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="insulator-outer-path" d="M0.0,-7.5 L15.0,-7.5 L15.0,7.5 L0.0,7.5 Z" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-</g></g><g transform="translate(10, 340)" id="Insulator"><text font-size="5" y="50.0">Insulator</text><g transform="translate(0,25)"><path class="filled-background-path" id="insulator-background" d="M0,-7.50000000000000 L15,-7.50000000000000 L15,7.50000000000000 L0,7.50000000000000 Z" style="fill:rgb(255,255,255);fill-rule:nonzero;stroke:none" />
+</g></g><g transform="translate(10, 340)" id="Insulator"><text font-size="5" y="50.0">Insulator</text><g transform="translate(0,25)"><path class="filled-background-path" id="insulator-background" d="M0.0,-7.5 L15.0,-7.5 L15.0,7.5 L0.0,7.5 Z" style="fill:rgb(255,255,255);fill-rule:nonzero;stroke:none" />
 
-<path class="filled-path" id="insulator-inner-path" d="M3.00000000000000,-4.50000000000000 L12.0000000000000,-4.50000000000000 L12.0000000000000,4.50000000000000 L3.00000000000000,4.50000000000000 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
+<path class="filled-path" id="insulator-inner-path" d="M3.0,-4.5 L12.0,-4.5 L12.0,4.5 L3.0,4.5 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
 
-<path class="unfilled-path" id="insulator-outer-path" d="M0,-7.50000000000000 L15,-7.50000000000000 L15,7.50000000000000 L0,7.50000000000000 Z" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="insulator-outer-path" d="M0.0,-7.5 L15.0,-7.5 L15.0,7.5 L0.0,7.5 Z" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-</g></g><g transform="translate(120, 340)" id="NonCodingRNA"><text font-size="5" y="50.0">NonCodingRNA</text><g transform="translate(0,25)"><path class="filled-path" id="non-coding-rna-path" d="M0,0 L0,-8.40000000000000 C3.00000000000000,-14.4000000000000 3.60000000000000,-1.20000000000000 6.66666666666666,-8.40000000000000 C9.66666666666666,-14.4000000000000 10.2666666666667,-1.20000000000000 13.3333333333333,-8.40000000000000 C16.3333333333333,-14.4000000000000 16.9333333333333,-1.20000000000000 20.0000000000000,-8.40000000000000 L20,0 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
+</g></g><g transform="translate(120, 340)" id="NonCodingRNA"><text font-size="5" y="50.0">NonCodingRNA</text><g transform="translate(0,25)"><path class="filled-path" id="non-coding-rna-path" d="M0.0,0.0 L0.0,-8.399999999999999 C3.0,-14.399999999999999 3.5999999999999996,-1.2000000000000002 6.66666666666666,-8.399999999999999 C9.66666666666666,-14.399999999999999 10.266666666666659,-1.2000000000000002 13.33333333333334,-8.399999999999999 C16.33333333333334,-14.399999999999999 16.93333333333334,-1.2000000000000002 20.0,-8.399999999999999 L20.0,0.0 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
 
-</g></g><g transform="translate(120, 340)" id="NonCodingRNA"><text font-size="5" y="50.0">NonCodingRNA</text><g transform="translate(0,25)"><path class="filled-path" id="non-coding-rna-path" d="M0,0 L0,-8.40000000000000 C3.00000000000000,-14.4000000000000 3.60000000000000,-1.20000000000000 6.66666666666666,-8.40000000000000 C9.66666666666666,-14.4000000000000 10.2666666666667,-1.20000000000000 13.3333333333333,-8.40000000000000 C16.3333333333333,-14.4000000000000 16.9333333333333,-1.20000000000000 20.0000000000000,-8.40000000000000 L20,0 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
+</g></g><g transform="translate(120, 340)" id="NonCodingRNA"><text font-size="5" y="50.0">NonCodingRNA</text><g transform="translate(0,25)"><path class="filled-path" id="non-coding-rna-path" d="M0.0,0.0 L0.0,-8.399999999999999 C3.0,-14.399999999999999 3.5999999999999996,-1.2000000000000002 6.66666666666666,-8.399999999999999 C9.66666666666666,-14.399999999999999 10.266666666666659,-1.2000000000000002 13.33333333333334,-8.399999999999999 C16.33333333333334,-14.399999999999999 16.93333333333334,-1.2000000000000002 20.0,-8.399999999999999 L20.0,0.0 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
 
-</g></g><g transform="translate(230, 340)" id="Aptamer"><text font-size="5" y="50.0">Aptamer</text><g transform="translate(0,25)"><path class="filled-path" id="aptamer-path" d="M6.30000000000000,0 L6.30000000000000,-5.40000000000000 C0,-7.20000000000000 5.40000000000000,-16.2000000000000 9.90000000000000,-11.7000000000000 L13.5000000000000,-14.4000000000000 C12.9600000000000,-17.1000000000000 16.2000000000000,-18.0000000000000 17.4600000000000,-16.5600000000000 C18.9000000000000,-12.9600000000000 16.2000000000000,-12.6000000000000 14.7600000000000,-12.2400000000000 L10.8000000000000,-9.00000000000000 C11.3400000000000,-6.66000000000000 9.00000000000000,-6.30000000000000 9.00000000000000,-5.40000000000000 L9.00000000000000,0 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
+</g></g><g transform="translate(230, 340)" id="Aptamer"><text font-size="5" y="50.0">Aptamer</text><g transform="translate(0,25)"><path class="filled-path" id="aptamer-path" d="M6.3,0.0 L6.3,-5.3999999999999995 C0.0,-7.2 5.3999999999999995,-16.2 9.9,-11.700000000000001 L13.5,-14.4 C12.959999999999999,-17.099999999999998 16.2,-18.0 17.46,-16.560000000000002 C18.900000000000002,-12.959999999999999 16.2,-12.6 14.76,-12.24 L10.799999999999999,-9.0 C11.34,-6.66 9.0,-6.3 9.0,-5.3999999999999995 L9.0,0.0 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
 
-</g></g><g transform="translate(230, 340)" id="Aptamer"><text font-size="5" y="50.0">Aptamer</text><g transform="translate(0,25)"><path class="filled-path" id="aptamer-path" d="M6.30000000000000,0 L6.30000000000000,-5.40000000000000 C0,-7.20000000000000 5.40000000000000,-16.2000000000000 9.90000000000000,-11.7000000000000 L13.5000000000000,-14.4000000000000 C12.9600000000000,-17.1000000000000 16.2000000000000,-18.0000000000000 17.4600000000000,-16.5600000000000 C18.9000000000000,-12.9600000000000 16.2000000000000,-12.6000000000000 14.7600000000000,-12.2400000000000 L10.8000000000000,-9.00000000000000 C11.3400000000000,-6.66000000000000 9.00000000000000,-6.30000000000000 9.00000000000000,-5.40000000000000 L9.00000000000000,0 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
+</g></g><g transform="translate(230, 340)" id="Aptamer"><text font-size="5" y="50.0">Aptamer</text><g transform="translate(0,25)"><path class="filled-path" id="aptamer-path" d="M6.3,0.0 L6.3,-5.3999999999999995 C0.0,-7.2 5.3999999999999995,-16.2 9.9,-11.700000000000001 L13.5,-14.4 C12.959999999999999,-17.099999999999998 16.2,-18.0 17.46,-16.560000000000002 C18.900000000000002,-12.959999999999999 16.2,-12.6 14.76,-12.24 L10.799999999999999,-9.0 C11.34,-6.66 9.0,-6.3 9.0,-5.3999999999999995 L9.0,0.0 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
 
-</g></g><g transform="translate(340, 340)" id="NucleicAcidOneStrand"><text font-size="5" y="50.0">NucleicAcidOneStrand</text><g transform="translate(0,25)"><path class="unfilled-path" id="nucleic-acid-path" d="M0,0 C3.00000000000000,-6.00000000000000 3.60000000000000,6.00000000000000 6.66666666666666,0 C9.66666666666666,-6.00000000000000 10.2666666666667,6.00000000000000 13.3333333333333,0 C16.3333333333333,-6.00000000000000 16.9333333333333,6.00000000000000 20.0000000000000,0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+</g></g><g transform="translate(340, 340)" id="NucleicAcidOneStrand"><text font-size="5" y="50.0">NucleicAcidOneStrand</text><g transform="translate(0,25)"><path class="unfilled-path" id="nucleic-acid-path" d="M0.0,0.0 C3.0,-6.0 3.5999999999999996,6.0 6.66666666666666,0.0 C9.66666666666666,-6.0 10.266666666666659,6.0 13.33333333333334,0.0 C16.33333333333334,-6.0 16.93333333333334,6.0 20.0,0.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-</g></g><g transform="translate(340, 340)" id="NucleicAcidOneStrand"><text font-size="5" y="50.0">NucleicAcidOneStrand</text><g transform="translate(0,25)"><path class="unfilled-path" id="nucleic-acid-path" d="M0,0 C3.00000000000000,-6.00000000000000 3.60000000000000,6.00000000000000 6.66666666666666,0 C9.66666666666666,-6.00000000000000 10.2666666666667,6.00000000000000 13.3333333333333,0 C16.3333333333333,-6.00000000000000 16.9333333333333,6.00000000000000 20.0000000000000,0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+</g></g><g transform="translate(340, 340)" id="NucleicAcidOneStrand"><text font-size="5" y="50.0">NucleicAcidOneStrand</text><g transform="translate(0,25)"><path class="unfilled-path" id="nucleic-acid-path" d="M0.0,0.0 C3.0,-6.0 3.5999999999999996,6.0 6.66666666666666,0.0 C9.66666666666666,-6.0 10.266666666666659,6.0 13.33333333333334,0.0 C16.33333333333334,-6.0 16.93333333333334,6.0 20.0,0.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-</g></g><g transform="translate(450, 340)" id="AssemblyScar"><text font-size="5" y="50.0">AssemblyScar</text><g transform="translate(0,25)"><path class="filled-background-path" id="assembly-scar-background" d="M0,-2.50000000000000 L15,-2.50000000000000 L15,2.50000000000000 L0,2.50000000000000 Z" style="fill:rgb(255,255,255);fill-rule:nonzero;stroke:none" />
+</g></g><g transform="translate(450, 340)" id="AssemblyScar"><text font-size="5" y="50.0">AssemblyScar</text><g transform="translate(0,25)"><path class="filled-background-path" id="assembly-scar-background" d="M0.0,-2.5 L15.0,-2.5 L15.0,2.5 L0.0,2.5 Z" style="fill:rgb(255,255,255);fill-rule:nonzero;stroke:none" />
 
-<path class="unfilled-path" id="assembly-scar-path1" d="M0,2.50000000000000 L15,2.50000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="assembly-scar-path1" d="M0.0,2.5 L15.0,2.5" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="assembly-scar-path1" d="M0,-2.50000000000000 L15,-2.50000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="assembly-scar-path1" d="M0.0,-2.5 L15.0,-2.5" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-</g></g><g transform="translate(450, 340)" id="AssemblyScar"><text font-size="5" y="50.0">AssemblyScar</text><g transform="translate(0,25)"><path class="filled-background-path" id="assembly-scar-background" d="M0,-2.50000000000000 L15,-2.50000000000000 L15,2.50000000000000 L0,2.50000000000000 Z" style="fill:rgb(255,255,255);fill-rule:nonzero;stroke:none" />
+</g></g><g transform="translate(450, 340)" id="AssemblyScar"><text font-size="5" y="50.0">AssemblyScar</text><g transform="translate(0,25)"><path class="filled-background-path" id="assembly-scar-background" d="M0.0,-2.5 L15.0,-2.5 L15.0,2.5 L0.0,2.5 Z" style="fill:rgb(255,255,255);fill-rule:nonzero;stroke:none" />
 
-<path class="unfilled-path" id="assembly-scar-path1" d="M0,2.50000000000000 L15,2.50000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="assembly-scar-path1" d="M0.0,2.5 L15.0,2.5" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="assembly-scar-path1" d="M0,-2.50000000000000 L15,-2.50000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="assembly-scar-path1" d="M0.0,-2.5 L15.0,-2.5" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-</g></g><g transform="translate(560, 340)" id="CDS"><text font-size="5" y="50.0">CDS</text><g transform="translate(0,25)"><path class="filled-path" id="cds" d="M0,0  L0,-3.75000000000000  L25,-3.75000000000000  L25,-15/2  L30,0   L25,15/2    L25,3.75000000000000    L0,3.75000000000000 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
+</g></g><g transform="translate(560, 340)" id="CDS"><text font-size="5" y="50.0">CDS</text><g transform="translate(0,25)"><path class="filled-path" id="cds" d="M0.0,0.0  L0.0,-3.75  L25.0,-3.75  L25.0,-7.5  L30.0,0.0   L25.0,7.5    L25.0,3.75    L0.0,3.75 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
 
-</g></g><g transform="translate(560, 340)" id="CDS"><text font-size="5" y="50.0">CDS</text><g transform="translate(0,25)"><path class="filled-path" id="cds" d="M0,0  L0,-3.75000000000000  L25,-3.75000000000000  L25,-15/2  L30,0   L25,15/2    L25,3.75000000000000    L0,3.75000000000000 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
+</g></g><g transform="translate(560, 340)" id="CDS"><text font-size="5" y="50.0">CDS</text><g transform="translate(0,25)"><path class="filled-path" id="cds" d="M0.0,0.0  L0.0,-3.75  L25.0,-3.75  L25.0,-7.5  L30.0,0.0   L25.0,7.5    L25.0,3.75    L0.0,3.75 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
 
-</g></g><g transform="translate(670, 340)" id="Unspecified"><text font-size="5" y="50.0">Unspecified</text><g transform="translate(0,25)"><path class="filled-path" id="unspecified-boundry" d="M0,0 L7.50000000000000,-7.50000000000000 L15,0 L7.50000000000000,7.50000000000000 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
+</g></g><g transform="translate(670, 340)" id="Unspecified"><text font-size="5" y="50.0">Unspecified</text><g transform="translate(0,25)"><path class="filled-path" id="unspecified-boundry" d="M0.0,0.0 L7.5,-7.5 L15.0,0.0 L7.5,7.5 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
 
-<path class="unfilled-path" id="unspecified-question-mark-point" d="M7.50000000000000,4.05000000000000 L7.50000000000000,4.05000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="unspecified-question-mark-point" d="M7.5,4.050000000000001 L7.5,4.050000000000001" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="unspecified-question-mark" d="M5.25000000000000,-0.900000000000000 C5.25000000000000,-3.45000000000000 11.2500000000000,-3.45000000000000 9.75000000000000,0.150000000000000 C9.75000000000000,0.750000000000000 7.50000000000000,0.150000000000000 7.50000000000000,2.25000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="unspecified-question-mark" d="M5.25,-0.8999999999999999 C5.25,-3.45 11.25,-3.45 9.75,0.15 C9.75,0.75 7.5,0.15 7.5,2.25" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-</g></g><g transform="translate(670, 340)" id="Unspecified"><text font-size="5" y="50.0">Unspecified</text><g transform="translate(0,25)"><path class="filled-path" id="unspecified-boundry" d="M0,0 L7.50000000000000,-7.50000000000000 L15,0 L7.50000000000000,7.50000000000000 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
+</g></g><g transform="translate(670, 340)" id="Unspecified"><text font-size="5" y="50.0">Unspecified</text><g transform="translate(0,25)"><path class="filled-path" id="unspecified-boundry" d="M0.0,0.0 L7.5,-7.5 L15.0,0.0 L7.5,7.5 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
 
-<path class="unfilled-path" id="unspecified-question-mark-point" d="M7.50000000000000,4.05000000000000 L7.50000000000000,4.05000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="unspecified-question-mark-point" d="M7.5,4.050000000000001 L7.5,4.050000000000001" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="unspecified-question-mark" d="M5.25000000000000,-0.900000000000000 C5.25000000000000,-3.45000000000000 11.2500000000000,-3.45000000000000 9.75000000000000,0.150000000000000 C9.75000000000000,0.750000000000000 7.50000000000000,0.150000000000000 7.50000000000000,2.25000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="unspecified-question-mark" d="M5.25,-0.8999999999999999 C5.25,-3.45 11.25,-3.45 9.75,0.15 C9.75,0.75 7.5,0.15 7.5,2.25" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
 </g></g></svg>

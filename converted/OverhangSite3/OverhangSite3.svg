@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100" height="100" glyphtype="3' Overhang Site" soterms="SO:0001933">
 
-<g transform="translate(0,25)"><rect class="bounding-box" id="bounding-box" x="0" y="-2.50000000000000" width="15" height="5" style="opacity:0.5;fill:none;fill-opacity:1;stroke:#999999;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:1, 0.5;stroke-dashoffset:0;stroke-opacity:1" />
+<g transform="translate(0,25)"><rect class="bounding-box" id="bounding-box" x="0.0" y="-2.5" width="15.0" height="5.0" style="opacity:0.5;fill:none;fill-opacity:1;stroke:#999999;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:1, 0.5;stroke-dashoffset:0;stroke-opacity:1" />
 
-<path class="filled-background-path" id="overhang_site-background" d="M0,-2.50000000000000 L15,-2.50000000000000 L15,2.50000000000000 L0,2.50000000000000 Z" style="fill:rgb(255,255,255);fill-rule:nonzero;stroke:none" />
+<path class="filled-background-path" id="overhang_site-background" d="M0.0,-2.5 L15.0,-2.5 L15.0,2.5 L0.0,2.5 Z" style="fill:rgb(255,255,255);fill-rule:nonzero;stroke:none" />
 
-<path class="unfilled-path" id="overhang_site-path1" d="M0,2.50000000000000 L9.00000000000000,2.50000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="overhang_site-path1" d="M0.0,2.5 L9.0,2.5" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="baseline" id="baseline" d="M0,0 L15,0" style="opacity:1;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.49999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1,0.5;stroke-dashoffset:0;stroke-opacity:1" y="0" />
+<path class="baseline" id="baseline" d="M0.0,0.0 L15.0,0.0" style="opacity:1;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.49999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1,0.5;stroke-dashoffset:0;stroke-opacity:1" y="0.0" />
 
-<path class="unfilled-path" id="overhang_site-path1" d="M0,-2.50000000000000 L15,-2.50000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="overhang_site-path1" d="M0.0,-2.5 L15.0,-2.5" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
 </g></svg>

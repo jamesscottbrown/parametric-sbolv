@@ -1,29 +1,29 @@
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100" height="100" glyphtype="Spacer" soterms="">
 
-<g transform="translate(0,25)"><rect class="bounding-box" id="bounding-box" x="0" y="0" width="40" height="12" style="opacity:0.5;fill:none;fill-opacity:1;stroke:#999999;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:1, 0.5;stroke-dashoffset:0;stroke-opacity:1" />
+<g transform="translate(0,25)"><rect class="bounding-box" id="bounding-box" x="0.0" y="0.0" width="40.0" height="12.0" style="opacity:0.5;fill:none;fill-opacity:1;stroke:#999999;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:1, 0.5;stroke-dashoffset:0;stroke-opacity:1" />
 
-<path class="filled-background-path" id="poly-a-site-background" d="M6.00000000000000,0 L6.00000000000000,0 L34.0000000000000,0 L34.0000000000000,0 L40,12 L0,12 Z" style="fill:rgb(255,255,255);fill-rule:nonzero;stroke:none" />
+<path class="filled-background-path" id="poly-a-site-background" d="M6.0,0.0 L6.0,0.0 L34.0,0.0 L34.0,0.0 L40.0,12.0 L0.0,12.0 Z" style="fill:rgb(255,255,255);fill-rule:nonzero;stroke:none" />
 
-<path class="unfilled-path" id="composite-path" d="M25.2000000000000,12 L40,12" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="composite-path" d="M25.2,12.0 L40.0,12.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="composite-path" d="M3.60000000000000,4.80000000000000 L2.40000000000000,7.20000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="composite-path" d="M3.5999999999999996,4.800000000000001 L2.4,7.199999999999999" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="composite-path" d="M34.0000000000000,0 L35.2000000000000,2.40000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="composite-path" d="M34.0,0.0 L35.2,2.4000000000000004" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="composite-path" d="M38.8000000000000,9.60000000000000 L40,12" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="composite-path" d="M38.8,9.600000000000001 L40.0,12.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="composite-path" d="M21.2000000000000,12 L22.8000000000000,12" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="composite-path" d="M21.200000000000003,12.0 L22.799999999999997,12.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="baseline" id="baseline" d="M0,0 L40,0" style="opacity:1;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.49999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1,0.5;stroke-dashoffset:0;stroke-opacity:1" y="0" />
+<path class="baseline" id="baseline" d="M0.0,0.0 L40.0,0.0" style="opacity:1;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.49999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1,0.5;stroke-dashoffset:0;stroke-opacity:1" y="0.0" />
 
-<path class="unfilled-path" id="composite-path" d="M6.00000000000000,0 L4.80000000000000,2.40000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="composite-path" d="M6.0,0.0 L4.8,2.4000000000000004" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="composite-path" d="M36.4000000000000,4.80000000000000 L37.6000000000000,7.20000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="composite-path" d="M36.4,4.800000000000001 L37.599999999999994,7.199999999999999" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="composite-path" d="M0,12 L14.8000000000000,12" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="composite-path" d="M0.0,12.0 L14.8,12.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="composite-path" d="M17.2000000000000,12 L18.8000000000000,12" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="composite-path" d="M17.2,12.0 L18.799999999999997,12.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="composite-path" d="M1.20000000000000,9.60000000000000 L0,12" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="composite-path" d="M1.2,9.600000000000001 L0.0,12.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
 </g></svg>
