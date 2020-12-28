@@ -1,9 +1,10 @@
 import xml.etree.ElementTree as ET
 import copy
 import os
+import re
 from cairosvg import svg2png, svg2pdf
 from math import floor
-
+import sympy
 
 def remove_by_class(parent_node, class_name):
     nodes_to_remove = []
@@ -33,6 +34,7 @@ def process_svg(root, show_baseline=False, show_bounding_box=False):
 
 
 def remove_parametric_attributes(root):
+    # This function simply removes the parametric attributes, leaving the non-paramteric ones in place
 
     root.attrib.pop('{https://parametric-svg.github.io/v0.2}defaults')
 
@@ -45,6 +47,56 @@ def remove_parametric_attributes(root):
         for attrib in parametric_attributes:
             child.attrib.pop(attrib)
 
+
+
+def convert_parametric_attributes(root):
+    # This function updates the non-parametric attributes, by substituting the default values into the parametric attributes
+
+    default_value_string = root.attrib['{https://parametric-svg.github.io/v0.2}defaults']
+    default_values = {}
+    for term in default_value_string.split(";"):
+        key, value = term.split("=")
+        default_values[key] = value
+
+    prefix = '{https://parametric-svg.github.io/v0.2}'
+
+    def evaluate_function(matchobj):
+        expr_string = matchobj.group(1)
+
+        expr = sympy.sympify(expr_string)
+        for var in default_values:
+            expr = expr.subs(var, default_values[var])
+        return str(expr)
+
+    for child in root:
+        parametric_attributes = []
+        for attrib in child.attrib:
+            if attrib.startswith(prefix):
+                parametric_attributes.append(attrib)
+
+        for attrib in parametric_attributes:
+            parametric_expression = child.attrib[attrib]
+            non_parametric_attribute_name = attrib.replace(prefix, '')
+            child.attrib[non_parametric_attribute_name] = re.sub(r'\{(.*?)\}', evaluate_function, parametric_expression)
+
+
+def apply_transformation(root):
+    # the parametric definitions use y=0 as the baseline height
+    # However, this corresponds to the top of the SVG, so we need to shift downwards before generating converted images
+    g = ET.Element('g')
+    g.attrib["transform"] = "translate(0,25)"
+
+    while len(root) > 0:
+        for child in root:
+            print("\tMoving child:", child)
+            g.append(child)
+            root.remove(child)
+
+    for child in root:
+        print("WUT?")
+
+
+    root.append(g)
 
 def format_specification_glyph(root):
     baseline_style = "opacity:1;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.49999994;" +\
@@ -126,6 +178,8 @@ for file_name in os.listdir(base_dir):
     tree = ET.parse(os.path.join(base_dir, file_name))
     svg_tree = tree.getroot()
 
+    convert_parametric_attributes(svg_tree)
+
     # remove parametric attributes to get 'conventional' SVG
     remove_parametric_attributes(svg_tree)
 
@@ -133,19 +187,26 @@ for file_name in os.listdir(base_dir):
 
     # Set style to match specification style
     format_specification_glyph(svg_tree)
+
+    specification_glyphs[base_name] = copy.deepcopy(svg_tree)
+    svg_tree_copy = copy.deepcopy(svg_tree)
+
+    apply_transformation(svg_tree)
     convert_svg(ET.tostring(svg_tree), glyph_dir, f"{base_name}-specification")
     tree.write(os.path.join(glyph_dir, f"{base_name}-specification.svg"))
 
-    specification_glyphs[base_name] = copy.deepcopy(svg_tree)
+
 
     # convert to glyph-only format
-    remove_by_class(svg_tree, "baseline")
-    remove_by_class(svg_tree, "bounding-box")
+    remove_by_class(svg_tree_copy, "baseline")
+    remove_by_class(svg_tree_copy, "bounding-box")
+    apply_transformation(svg_tree_copy)
 
-    convert_svg(ET.tostring(svg_tree), glyph_dir, f"{base_name}")
+    convert_svg(ET.tostring(svg_tree_copy), glyph_dir, f"{base_name}")
     tree.write(os.path.join(glyph_dir, f"{base_name}.svg"))
 
-    bare_glyphs[base_name] = copy.deepcopy(svg_tree)
+
+    bare_glyphs[base_name] = copy.deepcopy(svg_tree_copy)
 
 
 grid = create_glyph_grid(specification_glyphs)

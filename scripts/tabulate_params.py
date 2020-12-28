@@ -33,7 +33,7 @@ for file_name in os.listdir(base_dir):
 fieldnames = ['name']
 fieldnames.extend(all_params)
 
-with open('summary.csv', 'w') as csvfile:
+with open('../converted/summary.csv', 'w') as csvfile:
     writer = csv.DictWriter(csvfile, fieldnames=fieldnames, extrasaction='ignore')
     writer.writeheader()
     writer.writerows(rows)

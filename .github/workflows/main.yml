@@ -28,6 +28,7 @@ jobs:
       run:  |
         cd scripts
         python convert.py
+        python3 tabulate_params.py
       
     - name: Commit files
       run: |
