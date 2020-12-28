@@ -1,9 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100" height="100" glyphtype="No Glyph" soterms="">
 
-<path class="filled-background-path" id="operator-background" d="M2,17.5 L10,14.5 L10,32.5 L2,32.5 Z" style="fill:rgb(255,255,255);fill-rule:nonzero;stroke:none" />
+<g transform="translate(0,25)"><rect class="bounding-box" id="bounding-box" x="0" y="-7.50000000000000" width="8" height="15" style="opacity:0.5;fill:none;fill-opacity:1;stroke:#999999;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:1, 0.5;stroke-dashoffset:0;stroke-opacity:1" />
 
-<path class="unfilled-path" id="no-glyph-path1" d="M4.4,17.5 L2,17.5 L2,32.5 L4.4,32.5" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="filled-background-path" id="operator-background" d="M0,-7.50000000000000 L8,-7.50000000000000 L8,7.50000000000000 L0,7.50000000000000 Z" style="fill:rgb(255,255,255);fill-rule:nonzero;stroke:none" />
 
-<path class="unfilled-path" id="no-glyph-path1" d="M7.6,17.5 L10,17.5 L10,32.5 L7.6,32.5" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="no-glyph-path1" d="M5.60000000000000,-7.50000000000000 L8,-7.50000000000000 L8,7.50000000000000 L5.60000000000000,7.50000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-</svg>
+<path class="baseline" id="baseline" d="M0,0 L8,0" style="opacity:1;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.49999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1,0.5;stroke-dashoffset:0;stroke-opacity:1" y="0" />
+
+<path class="unfilled-path" id="no-glyph-path1" d="M2.40000000000000,-7.50000000000000 L0,-7.50000000000000 L0,7.50000000000000 L2.40000000000000,7.50000000000000" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+
+</g></svg>
