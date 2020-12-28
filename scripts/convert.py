@@ -66,7 +66,7 @@ def convert_parametric_attributes(root):
         expr = sympy.sympify(expr_string)
         for var in default_values:
             expr = expr.subs(var, default_values[var])
-        return str(expr)
+        return str(float(expr))
 
     for child in root:
         parametric_attributes = []
