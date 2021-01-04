@@ -1,38 +1,38 @@
-name,width,height,arrowbody_height,arrowbody_width
-RecombinationSite,10,15,,
-OverhangSite3,15,5,,
-DNALocation,6,16,,
-RNACleavageSite,6,16,,
-RNAStabilityElement,6,16,,
-StickyEndRestrictionEnzymeCleavageSite3,15,8,,
-ProteinLocation,6,16,,
-PolyASite,20,,,
-Primer,30,10,,10
-Spacer,10,,,
-RNALocation,6,16,,
-ProteinStabilityElement,6,16,,
-SpecificRecombinationSite,26,26,,
-EngineeredRegion,30,15,,
-NoGlyph,8,15,,
-Terminator,8,10,,
-BluntRestrictionSite,8,15,,
-StickyEndRestrictionEnzymeCleavageSite5,15,8,,
-Signature,20,10,,
-Composite,40,12,,
-Operator,7,7,,
-OverhangSite5,15,5,,
-Promoter,30,25,10,10
-DNACleavageSite,6,16,,
-ProteinCleavageSite,6,16,,
-DNAStabilityElement,6,16,,
-RibosomeEntrySite,15,,,
-OriginOfTransfer,20,,,
-OmittedDetail,15,,,
-OriginOfReplication,20,,,
-Insulator,15,,,
-NonCodingRNA,20,12,,
-Aptamer,18,,,
-NucleicAcidOneStrand,20,12,,
-AssemblyScar,15,5,,
-CDS,30,15,7.5,25
-Unspecified,15,,,
+name,soterms,height,arrowbody_width,width,arrowbody_height,glyphtype
+RecombinationSite,,15,,10,,Recombination Site
+OverhangSite3,SO:0001933,5,,15,,3' Overhang Site
+DNALocation,"SO:0001236,SO:0000699",16,,6,,DNA Location
+RNACleavageSite,"SO:0001688,SO:0001687,SO:0001977",16,,6,,RNA Cleavage Site
+RNAStabilityElement,SO:0001979,16,,6,,RNA Stability Element
+StickyEndRestrictionEnzymeCleavageSite3,SO:0001976,8,,15,,3' Sticky Restriction Site
+ProteinLocation,"SO:0001237,SO:0000699",16,,6,,Protein Location
+PolyASite,SO:0000553,,,20,,PolyA Site
+Primer,SO:0005850,10,10,30,,PrimerBindingSite
+Spacer,SO:0000031,,,10,,Aptamer
+RNALocation,"SO:0001236,SO:0000699",16,,6,,RNA Location
+ProteinStabilityElement,"SO:0001955,SO:0001546",16,,6,,Protein Stability Element
+SpecificRecombinationSite,SO:0000299,26,,26,,Specific Recombination Site
+EngineeredRegion,SO:0000804,15,,30,,Engineered Region
+NoGlyph,,15,,8,,No Glyph
+Terminator,SO:0000141,10,,8,,Terminator
+BluntRestrictionSite,SO:0001691,15,,8,,Blunt Restriction Site
+StickyEndRestrictionEnzymeCleavageSite5,SO:0001975,8,,15,,5' Sticky Restriction Site
+Signature,SO:0001978,10,,20,,Signature
+Composite,,12,,40,,Spacer
+Operator,"SO:0000057,SO:0000409",7,,7,,Operator
+OverhangSite5,SO:0001932,5,,15,,5' Overhang Site
+Promoter,SO:0000167,25,10,30,10,Promoter
+DNACleavageSite,"SO:0001688,SO:0001687",16,,6,,DNA Cleavage Site
+ProteinCleavageSite,SO:0001956,16,,6,,Protein Cleavage Site
+DNAStabilityElement,,16,,6,,DNA Stability Element
+RibosomeEntrySite,SO:0000139,,,15,,RibosomeEntrySite
+OriginOfTransfer,SO:0000724,,,20,,OriginOfTransfer
+OmittedDetail,,,,15,,Omitted Detail
+OriginOfReplication,SO:0000296,,,20,,OriginOfReplication
+Insulator,SO:0000627,,,15,,Insulator
+NonCodingRNA,,12,,20,,Spacer
+Aptamer,,,,18,,Spacer
+NucleicAcidOneStrand,,12,,20,,Spacer
+AssemblyScar,SO:0001953,5,,15,,Assembly Scar
+CDS,SO:0000316,15,25,30,7.5,CDS
+Unspecified,SO:0000110,,,15,,Unspecified
