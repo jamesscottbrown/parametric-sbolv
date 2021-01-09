@@ -454,19 +454,19 @@
 
 </g><g transform="translate(230, 230)" id="Promoter"><text font-size="5" y="50.0">Promoter</text><rect class="bounding-box" id="bounding-box" x="0.0" y="-35.0" width="30.0" height="35.0" style="opacity:0.5;fill:none;fill-opacity:1;stroke:#999999;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:1, 0.5;stroke-dashoffset:0;stroke-opacity:1" />
 
-<path class="baseline" id="baseline" d="M0.0,0.0 L10.0,0.0" style="opacity:1;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.49999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1,0.5;stroke-dashoffset:0;stroke-opacity:1" y="0.0" />
+<path class="baseline" id="baseline" d="M0.0,0.0 L30.0,0.0" style="opacity:1;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.49999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1,0.5;stroke-dashoffset:0;stroke-opacity:1" y="0.0" />
 
 <path class="unfilled-path" id="promoter-body" d="M0.0,0.0 L0.0,-20.0 L30.0,-20.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="promoter-head" d="M20.0,-25.0 L30.0,-20.0 L20.0,-15.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="promoter-head" d="M10.0,-25.0 L30.0,-20.0 L10.0,-15.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
 </g><g transform="translate(230, 230)" id="Promoter"><text font-size="5" y="50.0">Promoter</text><rect class="bounding-box" id="bounding-box" x="0.0" y="-35.0" width="30.0" height="35.0" style="opacity:0.5;fill:none;fill-opacity:1;stroke:#999999;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:1, 0.5;stroke-dashoffset:0;stroke-opacity:1" />
 
-<path class="baseline" id="baseline" d="M0.0,0.0 L10.0,0.0" style="opacity:1;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.49999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1,0.5;stroke-dashoffset:0;stroke-opacity:1" y="0.0" />
+<path class="baseline" id="baseline" d="M0.0,0.0 L30.0,0.0" style="opacity:1;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.49999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1,0.5;stroke-dashoffset:0;stroke-opacity:1" y="0.0" />
 
 <path class="unfilled-path" id="promoter-body" d="M0.0,0.0 L0.0,-20.0 L30.0,-20.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
-<path class="unfilled-path" id="promoter-head" d="M20.0,-25.0 L30.0,-20.0 L20.0,-15.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="promoter-head" d="M10.0,-25.0 L30.0,-20.0 L10.0,-15.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
 </g><g transform="translate(340, 230)" id="DNACleavageSite"><text font-size="5" y="50.0">DNACleavageSite</text><rect class="bounding-box" id="bounding-box" x="0.0" y="-16.0" width="6.0" height="16.0" style="opacity:0.5;fill:none;fill-opacity:1;stroke:#999999;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:1, 0.5;stroke-dashoffset:0;stroke-opacity:1" />
 
