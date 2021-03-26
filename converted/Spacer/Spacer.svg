@@ -1,13 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100" height="100" glyphtype="Aptamer" soterms="SO:0000031">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100" height="100" glyphtype="InertDNASpacer" soterms="SO:0002223">
 
 <g transform="translate(0,25)"><rect class="bounding-box" id="bounding-box" x="0.0" y="-5.0" width="10.0" height="10.0" style="opacity:0.5;fill:none;fill-opacity:1;stroke:#999999;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:1, 0.5;stroke-dashoffset:0;stroke-opacity:1" />
 
-<path class="filled-path" id="spacer-circle-path" d="M0.0,0.0 C0.0,-6.66666666666667 10.0,-6.66666666666667 10.0,0.0 C10.0,6.66666666666667 0.0,6.66666666666667 0.0,0.0 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
+<path class="filled-path" id="spacer-circle-path" d="M0,0  C0,-6.666666666666666 10.0,-6.666666666666666 10.0,0  C10.0,6.666666666666666 0,6.666666666666666 0,0 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
 
-<path class="unfilled-path" id="spacer-cross2-path" d="M8.334690308261308,3.725565802396744 L1.665309691738691,-3.725565802396744" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="spacer-cross2-path" d="M8.33469030826131,3.725565802396744 L1.6653096917386905,-3.725565802396744" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
 <path class="baseline" id="baseline" d="M0.0,0.0 L10.0,0.0" style="opacity:1;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.49999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1,0.5;stroke-dashoffset:0;stroke-opacity:1" y="0.0" />
 
-<path class="unfilled-path" id="spacer-cross1-path" d="M8.334690308261308,-3.725565802396744 L1.665309691738691,3.725565802396744" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+<path class="unfilled-path" id="spacer-cross1-path" d="M8.33469030826131,-3.725565802396744 L1.6653096917386905,3.725565802396744" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
 
 </g></svg>

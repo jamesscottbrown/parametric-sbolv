@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100" height="100" glyphtype="DNA Stop Site" soterms="SO:0000616">
+
+<g transform="translate(0,25)"><rect class="bounding-box" id="bounding-box" x="0.0" y="-16.0" width="6.0" height="16.0" style="opacity:0.5;fill:none;fill-opacity:1;stroke:#999999;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:1, 0.5;stroke-dashoffset:0;stroke-opacity:1" />
+
+    <path class="filled-path" id="location-top-path" d="M0.0,-13.0 C0.0,-17.00000000000002 6.0,-17.00000000000002 6.0,-13.0 C6.0,-8.999999999999998 0.0,-8.999999999999998 0.0,-13.0 Z" style="fill:rgb(230,230,230);fill-rule:nonzero;stroke:black;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt" />
+
+<path class="unfilled-path" id="star-1" d="M3.0,-13.0 L3.705342302748,-12.029179606756" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+
+<path class="unfilled-path" id="star-3" d="M3.0,-13.0 L3.0,-14.2" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+
+<path class="unfilled-path" id="star-5" d="M3.0,-13.0 L2.294657697252,-12.029179606756" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+
+<path class="baseline" id="baseline" d="M0.0,0.0 L6.0,0.0" style="opacity:1;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.49999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1,0.5;stroke-dashoffset:0;stroke-opacity:1" y="0.0" />
+
+<path class="unfilled-path" id="star-2" d="M3.0,-13.0 L4.141267819548,-13.370820393244" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+
+<path class="unfilled-path" id="location-stem-path" d="M3.0,0.0 L3.0,-10.0" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+
+
+<path class="unfilled-path" id="star-4" d="M3.0,-13.0 L1.8587321804519998,-13.370820393244" style="fill:none;stroke:black;stroke-width:1pt;stroke-linejoin:round;stroke-linecap:round" />
+
+</g></svg>
